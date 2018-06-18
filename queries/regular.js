@@ -59,7 +59,7 @@ function regularArray() {
 					// console.log(result > 0)
 					// !(result > 0) && days -= 1 // account for a missing day's worth of RAWS data potentially
 					if (!(result > 0)) days -= 1 
-					return result / n 
+					return n === 0 ? 0 : (result / n) 
 				})
 				zone.ERC = periodicAverages[0]
 				zone.ERC24 = periodicAverages[1]

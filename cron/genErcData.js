@@ -2,6 +2,7 @@ const fs = require('fs')
 const regularArray = require('../queries/regular')
 const manualArray = require('../queries/manual')
 const uncuredArray = require('../queries/uncured')
+const obsDate = require('../queries/obsDate')
 
 const d = new Date()
 const name = `${d.getFullYear()}${d.getMonth() + 1}${d.getDate()}${d.getHours() + 1}`
@@ -21,7 +22,7 @@ async function genErcData() {
 		// const zones = regular.concat(manual).concat(uncured)
 		const data = zones.reduce((prev, curr) => {
 			prev[curr.zone] = {
-				obsdate: curr.obsdate,
+				obsdate: obsDate || null,
 				elevation: curr.elevation || null,
 				ERC: (!curr.ERC || curr.ERC.toFixed(2)) || curr.ERC,
 				ERC24: (!curr.ERC24 || curr.ERC24.toFixed(2)) || curr.ERC24,

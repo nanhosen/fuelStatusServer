@@ -17,14 +17,12 @@ const morgan = require('morgan') // logging framework to log incoming http reque
 const app = express()
 app.use(compression())
 const router = require('./router')
-const mongoose = require('mongoose').set('debug', true)
+const mongoose = require('mongoose').set('debug', false)
 const cors = require('cors')
 const config = require('./config')
 const Center = require('./models/centers')
 const ZoneInfo = require('./models/zoneinfo')
 const Status = require('./models/status')
-
-
 
 // cron
 const rawsData = require('./cron/rawsData')
@@ -38,6 +36,11 @@ const ercJob = new CronJob({cronTime: '* * 8,24 * * 0-6', onTick: genErcData, st
 genErcData()
 
 // DB Setup
+// const dbConnection = mongoose.connect(config.getDbConnectionString(), {
+// 	useMongoClient: true,
+// })
+// dbConnection.catch(err => console.log(err))
+
 mongoose.connect(config.getDbConnectionString(), err => {	
 	if (err) throw err
 

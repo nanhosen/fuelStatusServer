@@ -1,68 +1,53 @@
-const wget = require('node-wget') 
+const fetch = require('node-fetch')
 const fs = require('fs')
 const xml2js = require('xml2js')
 
-const parser = new xml2js.Parser()
 
-const arr = [
-	{
-		// url: 'https://gacc.nifc.gov/gbcc/predictive/FuelStatus/all_greatbasin_nfdrdate.xml',
-		url: 'http://www.directdocuments.com/GACC/FuelStatus/all_greatbasin_nfdrdate.xml',
-		loc: 'allData.json',
-		path: 'all_greatbasin_nfdrdate.xml'
-	},
-	{
-		// url: 'https://gacc.nifc.gov/gbcc/predictive/FuelStatus/all_greatbasin_nfdrdate24.xml',
-		url: 'http://www.directdocuments.com/GACC/FuelStatus/all_greatbasin_nfdrdate24.xml',
-		loc: '24Data.json',
-		path: 'all_greatbasin_nfdrdate24.xml'
-	},
-	{
-		// url: 'https://gacc.nifc.gov/gbcc/predictive/FuelStatus/all_greatbasin_nfdrdate48.xml',
-		url: 'http://www.directdocuments.com/GACC/FuelStatus/all_greatbasin_nfdrdate48.xml',
-		loc: '48Data.json',
-		path: 'all_greatbasin_nfdrdate48.xml'
-	},
+const urlArray = [
+	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate.xml',
+	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate24.xml',
+	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate48.xml',
 ]
 
-const rawsData = () => arr.map(obj => {
-	const url = obj.url
-	const loc = obj.loc
-	const path = obj.path
+const rawsData = () => {
 
-	const config = {
-    url: url,
-    dest: './cron/xml/', // destination path or path with filenname, default is './' 
-    timeout: 2000  // duration to wait for request fulfillment in milliseconds
-  }
+	const xml0 = fs.createWriteStream(`./cron/xml/allData.xml`, {flags: 'w'})
+	const xml1 = fs.createWriteStream(`./cron/xml/allData24.xml`, {flags: 'w'})
+	const xml2 = fs.createWriteStream(`./cron/xml/allData48.xml`, {flags: 'w'})
 
-  const callback = function(error, response, body) {
-		const promise = new Promise((resolve, reject) => {
-			if (error) 
-				reject(error)
-			else
-				resolve(loc, path)
-		})
+	const dest0 = fs.createWriteStream(`./cron/json/allData.json`, {flags: 'w'})
+	const dest1 = fs.createWriteStream(`./cron/json/24Data.json`, {flags: 'w'})
+	const dest2 = fs.createWriteStream(`./cron/json/48Data.json`, {flags: 'w'})
 
-		const data2json = (location, source) => {
-			const file = fs.createWriteStream(`./cron/json/${location}`, {flags: 'w'})
+	const xmlObj = {
+		0: xml0,
+		1: xml1,
+		2: xml2,
+		3: `./cron/xml/allData.xml`,
+		4: `./cron/xml/allData24.xml`,
+		5: `./cron/xml/allData48.xml`,
+	}
 
-			fs.readFile(`./cron/xml/${source}`, (err, data) => {
-		    parser.parseString(data, (err, result) => {
-		      if (err)
-		      	console.log(err)
-		      else 
-		      	file.write(JSON.stringify(result))
-    		});				
+	const destObj = {
+		0: dest0,
+		1: dest1,
+		2: dest2,
+	}
+	return urlArray.map((url, i) => {
+		fetch(url)
+		.then(res => res.body.pipe(xmlObj[i]))
+		.then(res => {
+			res.on('finish', () => {
+				fs.readFile(xmlObj[i + 3], (err, data) => {
+					new xml2js.Parser().parseString(data, (err, result) => {
+						err ? console.log(err) : destObj[i].write(JSON.stringify(result))
+					})
+				})
 			})
-		}
+		})
+		.catch(err => console.log(err)) 
+	})
+}
 
-		promise.then(data2json(loc, path), res => console.log('Error: ', res))
-  }
-
-  wget(config, callback)
-})
 
 module.exports = rawsData
-
-
