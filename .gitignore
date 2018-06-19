@@ -1,4 +1,7 @@
 node_modules
-archive
+archive/ercDataArchive
+cron/json/24Data.json
+cron/json/48Data.json
+cron/json/allData.json
 configJWT.js
 DigitalOcean
