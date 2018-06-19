@@ -26,6 +26,18 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 	})
 	Promise.all(axiosArray)
 	.then((values)=>{
+		if(!values[0]){
+			console.log('error requesting data from wims day 1')
+			return
+		}
+		if(!values[1]){
+			console.log('error requesting data from wims day 2')
+			return
+		}
+		if(!values[2]){
+			console.log('error requesting data from wims day 3')
+			return
+		}
 		values.map((curr,i)=>{
 			const ercObj = {};
 			const response = curr;
