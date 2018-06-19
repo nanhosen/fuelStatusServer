@@ -14,17 +14,17 @@ Date.prototype.subDays = function(days) {
 var dat = new Date();
 var monthAr = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
 
-var curHr = new Date().getHours()
+var curHr = new Date().getUTCHours()
 
-if(curHr<18){
-  var h0 = dat.subDays(1)
-  var h24 = dat.subDays(2)
-  var h48 = dat.subDays(3)
-}
-else{
+if(curHr>0 && curHr<6){
   var h0 = new Date();
   var h24 = dat.subDays(1)
   var h48 = dat.subDays(2)
+}
+else{
+  var h0 = dat.subDays(1)
+  var h24 = dat.subDays(2)
+  var h48 = dat.subDays(3)
 }
 
 

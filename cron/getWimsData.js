@@ -25,7 +25,6 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 		return axios.get(url)
 	}))
 	.then((values)=>{
-		console.log('values', values)
 		values.map((curr,i)=>{
 			const ercObj = {};
 			const response = curr;
