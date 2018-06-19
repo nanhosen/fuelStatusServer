@@ -20,11 +20,12 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 	const axiosArray = []
 	Promise.all(
 		dates.map((curr)=>{
-		const url = 'https://fam.nwcg.gov/wims/xsql/nfdrs.xsql?stn=&sig=ALL_GBs&type=O&start='+ curr + '&end=' + curr + '&time=&user=679&fmodel=7G';
+		const url = 'https://fam.nwcg.gov/wims/xsql/nfdrs.xsql?stn=&sig=ALL_GB&type=O&start='+ curr + '&end=' + curr + '&time=&user=679&fmodel=7G';
 		console.log(`date of url: ${Date(Date.now())} & current day: ${curr} & url: ${url}`)
 		return axios.get(url)
 	}))
 	.then((values)=>{
+		console.log('values', values)
 		values.map((curr,i)=>{
 			const ercObj = {};
 			const response = curr;
