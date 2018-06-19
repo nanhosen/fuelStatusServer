@@ -18,26 +18,13 @@ var pathMap = ['allData.json','24Data.json','48Data.json'];
 async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 	const dates = await makeDates(day1,month1,year1,day2,month2,year2,day3,month3,year3);
 	const axiosArray = []
-	dates.map((curr)=>{
-		const url = 'https://fam.nwcg.gov/wims/xsql/nfdrs.xsql?stn=&sig=ALL_GB&type=O&start='+ curr + '&end=' + curr + '&time=&user=679&fmodel=7G';
+	Promise.all(
+		dates.map((curr)=>{
+		const url = 'https://fam.nwcg.gov/wims/xsql/nfdrs.xsql?stn=&sig=ALL_GBs&type=O&start='+ curr + '&end=' + curr + '&time=&user=679&fmodel=7G';
 		console.log(`date of url: ${Date(Date.now())} & current day: ${curr} & url: ${url}`)
-		const axiosReq = axios.get(url)
-		axiosArray.push(axiosReq)
-	})
-	Promise.all(axiosArray)
+		return axios.get(url)
+	}))
 	.then((values)=>{
-		if(!values[0]){
-			console.log('error requesting data from wims day 1')
-			return
-		}
-		if(!values[1]){
-			console.log('error requesting data from wims day 2')
-			return
-		}
-		if(!values[2]){
-			console.log('error requesting data from wims day 3')
-			return
-		}
 		values.map((curr,i)=>{
 			const ercObj = {};
 			const response = curr;
@@ -57,7 +44,7 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 
 	})
 	.catch(function(err){
-		console.log(err.message)
+		console.log('hello: '+ err.message)
 	})
 	// console.log(axiosArray)
 
