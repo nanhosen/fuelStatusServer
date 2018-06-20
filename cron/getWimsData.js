@@ -31,6 +31,15 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 			var fileName = pathMap[i];
 			parser.parseString(response.data, function (err, result) {
 	      var save = JSON.stringify(result);
+	      var saveObj = JSON.parse(save)
+	      if(saveObj.nfdrs.row == undefined){
+	      	console.log('nodata')
+	      	return
+	      }
+	      // if(i==0){
+
+	      // console.log('save', saveObj.nfdrs)
+	      // }
 	      // fs.writeFile(`./cron/json${fileName}`, save, function (err) {
 	      fs.writeFile(`./cron/json/${fileName}`, save, function (err) {
 	      	// console.log(ercObj)		
