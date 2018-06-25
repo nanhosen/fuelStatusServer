@@ -10,6 +10,7 @@ const raws48 = require('../cron/json/48Data')
 // }, [])
 
 const extractERC = arr => arr.reduce((prev, curr) => {
+// console.log(`this is the console.log yo ${typeof rawsAll === 'object'}`)
 	// prev[curr['sta_id'][0]] = curr['ec'][0]
 	// prev.set(parseInt(curr['sta_id'][0]), parseInt(curr['ec'][0]))
 
@@ -17,8 +18,9 @@ const extractERC = arr => arr.reduce((prev, curr) => {
 	// prev.set("lat", curr["latitude"][0])
 	// prev.set("lon", curr["longitude"][0])
 	// prev.set("date", curr["nfdr_dt"][0])
-
+	// console.log(curr)
 	prev.set(curr['sta_id'][0], curr['ec'][0])
+	// console.log(arr)
 	return prev
 }, new Map())
 
