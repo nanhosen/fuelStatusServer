@@ -33,8 +33,10 @@ const ercJob = new CronJob({cronTime: '* * 8,24 * * 0-6', onTick: genErcData, st
 // xmlJob.start()
 // ercJob.start()
 // rawsData()
-genErcData()
-
+// var x = genErcData()
+// console.log(x)
+genErcData(__dirname)
+console.log(`hello from the new path: ${__dirname}`)
 // DB Setup
 // const dbConnection = mongoose.connect(config.getDbConnectionString(), {
 // 	useMongoClient: true,

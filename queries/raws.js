@@ -28,7 +28,7 @@ const ercArray = [
 	rawsAll['nfdrs']['row'],
 	raws24['nfdrs']['row'],
 	raws48['nfdrs']['row'],
-].map(arr => extractERC(arr))
+].map(arr => extractERC(arr.filter(el => !!el['ec'] )))
 
 
 // const set24 = new Set([1, 2, 3, 4, 5])

@@ -42,7 +42,8 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 	      // }
 	      // fs.writeFile(`./cron/json${fileName}`, save, function (err) {
 	      fs.writeFile(`./cron/json/${fileName}`, save, function (err) {
-	      	// console.log(ercObj)		
+	      	console.log(`this is the PWD: ${this.process.env.PWD}`)
+	      	console.log(`this is the getWimsData directory: ${__dirname}`)		
 				  if (err) return console.log(err);
 				  console.log('Saved');
 				});
@@ -50,7 +51,7 @@ async function makeReq(day1,month1,year1,day2,month2,year2,day3,month3,year3){
 		})
 		// console.log('response',response.data)
       
-
+		console.log('hello from wims')
 	})
 	.catch(function(err){
 		console.log('hello: '+ err.message)

@@ -27,8 +27,8 @@ var curHr = new Date().getUTCHours()
 //   var h48 = dat.subDays(4)
 // }
 
-  // var h0 = dat.subDays(1)
-  var h0 = new Date()
+  var h0 = dat.subDays(1)
+  // var h0 = new Date()
   var h24 = dat.subDays(2)
   var h48 = dat.subDays(3)
 
@@ -81,4 +81,5 @@ datAr.map((curr)=>{
 
 
 // getWimsData(16,'JUN',18,15,'JUN',18,14,'JUN',18)
+
 getWimsData(reqDateAr[0],reqDateAr[1],reqDateAr[2],reqDateAr[3],reqDateAr[4],reqDateAr[5],reqDateAr[6],reqDateAr[7],reqDateAr[8])

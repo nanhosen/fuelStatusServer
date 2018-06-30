@@ -10,7 +10,7 @@ const name = `${d.getFullYear()}${d.getMonth() + 1}${d.getDate()}${d.getHours() 
 // const file = fs.createWriteStream(`./archive/ercDataArchive.json`, {flags: 'w'})
 // const getData = Promise.all([ regularArray ]).then(res => console.log(res))
 
-async function genErcData() {
+async function genErcData(path) {
 	try {
 		const [ regular, manual, uncured ] = await Promise.all([
 			new regularArray(),
@@ -43,11 +43,17 @@ async function genErcData() {
 		}, {})
 		// file.writeFile(JSON.stringify(data))
 		// console.log(JSON.stringify(data))
-		fs.writeFile(`./archive/ercDataArchive.json`, JSON.stringify(data), err => {
+		// fs.writeFile(`/home/useradmin/projects/fuelStatusServer/archive/ercDataArchive.json`, JSON.stringify(data), err => {
+		fs.writeFile(`${path}/archive/ercDataArchive.json`, JSON.stringify(data), function(err) {
+		// fs.writeFile(`./archive/ercDataArchive.json`, JSON.stringify(data), function(err) {	
+			// console.log(.)	
+			console.log('this is the path ', path)
+			console.log(`this is the PWD: ${this.process.env.PWD}`)
+			console.log(`this is the genErcData directory: ${__dirname}`)
 			if (err) {
 				return console.log(err)
 			}
-			console.log("file saved")
+			console.log("file saved-- hello")
 		})
 		return data
 	}

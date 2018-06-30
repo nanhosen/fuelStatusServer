@@ -1,53 +1,50 @@
-const fetch = require('node-fetch')
-const fs = require('fs')
-const xml2js = require('xml2js')
+const rawsAll = require('../cron/json/allData')
+const raws24 = require('../cron/json/24Data')
+const raws48 = require('../cron/json/48Data')
 
+// const extractERC = arr => arr.reduce((prev, curr, j) => {
+// 	const rawsErc = {}
+// 	rawsErc[curr['sta_id'][0]] = curr['ec'][0]
+// 	prev.push(rawsErc)
+// 	return prev
+// }, [])
 
-const urlArray = [
-	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate.xml',
-	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate24.xml',
-	'https://gacc.nifc.gov/gbcc/predictive/ERCMap/all_greatbasin_nfdrdate48.xml',
-]
+const extractERC = arr => arr.reduce((prev, curr) => {
+// console.log(`this is the console.log yo ${typeof rawsAll === 'object'}`)
+	// prev[curr['sta_id'][0]] = curr['ec'][0]
+	// prev.set(parseInt(curr['sta_id'][0]), parseInt(curr['ec'][0]))
 
-const rawsData = () => {
+	// prev.set("stnName", curr["sta_nm"][0])
+	// prev.set("lat", curr["latitude"][0])
+	// prev.set("lon", curr["longitude"][0])
+	// prev.set("date", curr["nfdr_dt"][0])
+	// console.log(curr)
+	prev.set(curr['sta_id'][0], curr['ec'][0])
+	// console.log(arr)
+	return prev
+}, new Map())
 
-	const xml0 = fs.createWriteStream(`./cron/xml/allData.xml`, {flags: 'w'})
-	const xml1 = fs.createWriteStream(`./cron/xml/allData24.xml`, {flags: 'w'})
-	const xml2 = fs.createWriteStream(`./cron/xml/allData48.xml`, {flags: 'w'})
+const ercArray = [ 
+	rawsAll['nfdrs']['row'],
+	raws24['nfdrs']['row'],
+	raws48['nfdrs']['row'],
+].map(arr => extractERC(arr.filter(el => !!el['ec'] )))
 
-	const dest0 = fs.createWriteStream(`./cron/json/allData.json`, {flags: 'w'})
-	const dest1 = fs.createWriteStream(`./cron/json/24Data.json`, {flags: 'w'})
-	const dest2 = fs.createWriteStream(`./cron/json/48Data.json`, {flags: 'w'})
+// const set24 = new Set([1, 2, 3, 4, 5])
+// const set48 = new Set([3, 4, 5, 6, 7])
+// const setAll = new Set([5, 6, 7, 8, 9])
+// const set24 = new Set(ercArray[0].keys())
+// const set48 = new Set(ercArray[1].keys())
+// const setAll = new Set(ercArray[2].keys())
 
-	const xmlObj = {
-		0: xml0,
-		1: xml1,
-		2: xml2,
-		3: `./cron/xml/allData.xml`,
-		4: `./cron/xml/allData24.xml`,
-		5: `./cron/xml/allData48.xml`,
-	}
+// const intersection = new Set([...set24].filter(x => set48.has(x)).filter(x => setAll.has(x)))
+// const intersection = [...set24].filter(x => set48.has(x)).filter(x => setAll.has(x))
+// console.log(intersection)
+// const avgErcMap = intersection.reduce((prev, curr, j) => {
+// 	const value = parseInt(ercArray[0].get(curr)) + parseInt(ercArray[1].get(curr)) + parseInt(ercArray[2].get(curr))
+// 	prev.set(curr, (value / 3))
+// 	return prev
+// }, new Map())
+// console.log(avgErcMap)
 
-	const destObj = {
-		0: dest0,
-		1: dest1,
-		2: dest2,
-	}
-	return urlArray.map((url, i) => {
-		fetch(url)
-		.then(res => res.body.pipe(xmlObj[i]))
-		.then(res => {
-			res.on('finish', () => {
-				fs.readFile(xmlObj[i + 3], (err, data) => {
-					new xml2js.Parser().parseString(data, (err, result) => {
-						err ? console.log(err) : destObj[i].write(JSON.stringify(result))
-					})
-				})
-			})
-		})
-		.catch(err => console.log(err)) 
-	})
-}
-
-
-module.exports = rawsData
+module.exports = ercArray

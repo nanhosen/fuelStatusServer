@@ -63,8 +63,9 @@ exports.updateZone = function(req, res) {
 			else {
 				async function respond() {
 					try {
+						console.log("updatezone path  ", this.process.env.PWD)
 						const [ isCritical, status ] = await Promise.all([
-							genErcData(),
+							genErcData(this.process.env.PWD),
 							new UpdateStatus.statusArray(),
 						])						
 						res.send({ "message": "update successful", isCritical, status })
