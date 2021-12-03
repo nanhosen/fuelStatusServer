@@ -270,7 +270,6 @@ module.exports = app => {
 
 	app.get('/server/rating', function(req, res) {
 		const rating = () => {
-			console.log('getting')
 			const url = 'https://gacc.nifc.gov/gbcc/dispatch/ut-cdc/cdcmain.html';
 			textract.fromUrl(url, function( error, text ) {
 				if (error) {
@@ -283,7 +282,6 @@ module.exports = app => {
 					const plateau = textArray[pos];
 					const ratingPosition = (pos + 6);
 					const adjRating = textArray[ratingPosition];
-					console.log('textArray', pos, plateau, adjRating, textArray)
 					
 
 				  const reducerSwitch = {
