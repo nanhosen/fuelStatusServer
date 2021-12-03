@@ -1,0 +1,7083 @@
+<?xml version = '1.0' encoding = 'windows-1252'?>
+<nfdrs>
+   <row num="1">
+      <sta_id>20107</sta_id>
+      <sta_nm>LOGAN</sta_nm>
+      <latitude>  36.3531</latitude>
+      <longitude>-113.1994</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>14</ic>
+      <kbdi>142</kbdi>
+      <sc>7</sc>
+      <ec>58</ec>
+      <bi>47</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>8</hrb>
+      <wdy>84</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="2">
+      <sta_id>20108</sta_id>
+      <sta_nm>OLAF</sta_nm>
+      <latitude>  36.5000</latitude>
+      <longitude>-113.8167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>40</ic>
+      <kbdi>603</kbdi>
+      <sc>16</sc>
+      <ec>85</ec>
+      <bi>83</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>59</fl>
+      <hrb>5</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="3">
+      <sta_id>20109</sta_id>
+      <sta_nm>TWEEDY</sta_nm>
+      <latitude>  36.5833</latitude>
+      <longitude>-113.7167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>24</ic>
+      <kbdi>232</kbdi>
+      <sc>17</sc>
+      <ec>74</ec>
+      <bi>81</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>57</fl>
+      <hrb>8</hrb>
+      <wdy>69</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="4">
+      <sta_id>20109</sta_id>
+      <sta_nm>TWEEDY</sta_nm>
+      <latitude>  36.5833</latitude>
+      <longitude>-113.7167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>24</ic>
+      <kbdi>232</kbdi>
+      <sc>17</sc>
+      <ec>74</ec>
+      <bi>81</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>57</fl>
+      <hrb>8</hrb>
+      <wdy>69</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="5">
+      <sta_id>20113</sta_id>
+      <sta_nm>NIXON</sta_nm>
+      <latitude>  36.3884</latitude>
+      <longitude>-113.1580</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>11</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>16</ic>
+      <kbdi>182</kbdi>
+      <sc>7</sc>
+      <ec>49</ec>
+      <bi>43</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>30</fl>
+      <hrb>8</hrb>
+      <wdy>101</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="6">
+      <sta_id>20114</sta_id>
+      <sta_nm>BLACKROCK PORTABLE</sta_nm>
+      <latitude>  36.7903</latitude>
+      <longitude>-113.7472</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>9</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>10</xh_hr>
+      <ic>10</ic>
+      <kbdi>66</kbdi>
+      <sc>5</sc>
+      <ec>64</ec>
+      <bi>41</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>29</fl>
+      <hrb>9</hrb>
+      <wdy>50</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="7">
+      <sta_id>20117</sta_id>
+      <sta_nm>HURRICANE</sta_nm>
+      <latitude>  36.6992</latitude>
+      <longitude>-113.2072</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>34</ic>
+      <kbdi>104</kbdi>
+      <sc>13</sc>
+      <ec>72</ec>
+      <bi>71</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>6</hrb>
+      <wdy>78</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="8">
+      <sta_id>20217</sta_id>
+      <sta_nm>YELLOWJOHN</sta_nm>
+      <latitude>  36.1542</latitude>
+      <longitude>-113.5417</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>9</one_hr>
+      <ten_hr>10</ten_hr>
+      <hu_hr>15</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>10</ic>
+      <kbdi>134</kbdi>
+      <sc>5</sc>
+      <ec>36</ec>
+      <bi>33</bi>
+      <sl>2 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>23</fl>
+      <hrb>9</hrb>
+      <wdy>121</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="9">
+      <sta_id>20223</sta_id>
+      <sta_nm>GUNSIGHT</sta_nm>
+      <latitude>  36.7044</latitude>
+      <longitude>-112.5833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>29</ic>
+      <kbdi>482</kbdi>
+      <sc>8</sc>
+      <ec>72</ec>
+      <bi>57</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>5</hrb>
+      <wdy>79</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="10">
+      <sta_id>20224</sta_id>
+      <sta_nm>BUCKSKIN MOUNTAIN</sta_nm>
+      <latitude>  36.9181</latitude>
+      <longitude>-112.1997</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>28</ic>
+      <kbdi>390</kbdi>
+      <sc>8</sc>
+      <ec>71</ec>
+      <bi>56</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>5</hrb>
+      <wdy>80</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="11">
+      <sta_id>40724</sta_id>
+      <sta_nm>DOYLE</sta_nm>
+      <latitude>  40.0592</latitude>
+      <longitude>-120.0936</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>37</ic>
+      <kbdi>416</kbdi>
+      <sc>6</sc>
+      <ec>82</ec>
+      <bi>54</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="12">
+      <sta_id>41302</sta_id>
+      <sta_nm>DOG VALLEY</sta_nm>
+      <latitude>  39.5717</latitude>
+      <longitude>-120.0383</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>24</ic>
+      <kbdi>410</kbdi>
+      <sc>3</sc>
+      <ec>61</ec>
+      <bi>34</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>24</fl>
+      <hrb>4</hrb>
+      <wdy>84</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="13">
+      <sta_id>42802</sta_id>
+      <sta_nm>MARKLEEVILLE</sta_nm>
+      <latitude>  38.6850</latitude>
+      <longitude>-119.7683</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>31</ic>
+      <kbdi>489</kbdi>
+      <sc>7</sc>
+      <ec>64</ec>
+      <bi>48</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>34</fl>
+      <hrb>4</hrb>
+      <wdy>74</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="14">
+      <sta_id>43702</sta_id>
+      <sta_nm>BRIDGEPORT</sta_nm>
+      <latitude>  38.2483</latitude>
+      <longitude>-119.2197</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>44</ic>
+      <kbdi>505</kbdi>
+      <sc>14</sc>
+      <ec>78</ec>
+      <bi>75</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>53</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="15">
+      <sta_id>43707</sta_id>
+      <sta_nm>WALKER</sta_nm>
+      <latitude>  38.5700</latitude>
+      <longitude>-119.4550</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>44</ic>
+      <kbdi>402</kbdi>
+      <sc>13</sc>
+      <ec>84</ec>
+      <bi>74</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="16">
+      <sta_id>53808</sta_id>
+      <sta_nm>CARPENTER RIDGE</sta_nm>
+      <latitude>  38.4583</latitude>
+      <longitude>-109.0458</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>21</ic>
+      <kbdi>146</kbdi>
+      <sc>5</sc>
+      <ec>61</ec>
+      <bi>41</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>29</fl>
+      <hrb>42</hrb>
+      <wdy>88</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="17">
+      <sta_id>101044</sta_id>
+      <sta_nm>LODGPL</sta_nm>
+      <latitude>  45.3784</latitude>
+      <longitude>-115.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>36</ic>
+      <kbdi>380</kbdi>
+      <sc>8</sc>
+      <ec>64</ec>
+      <bi>54</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>63</hrb>
+      <wdy>76</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="18">
+      <sta_id>101044</sta_id>
+      <sta_nm>LODGPL</sta_nm>
+      <latitude>  45.3784</latitude>
+      <longitude>-115.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>36</ic>
+      <kbdi>380</kbdi>
+      <sc>8</sc>
+      <ec>64</ec>
+      <bi>54</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>63</hrb>
+      <wdy>76</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="19">
+      <sta_id>101044</sta_id>
+      <sta_nm>LODGPL</sta_nm>
+      <latitude>  45.3784</latitude>
+      <longitude>-115.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>36</ic>
+      <kbdi>380</kbdi>
+      <sc>8</sc>
+      <ec>64</ec>
+      <bi>54</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>63</hrb>
+      <wdy>76</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="20">
+      <sta_id>101108</sta_id>
+      <sta_nm>WEISRV</sta_nm>
+      <latitude>  44.8474</latitude>
+      <longitude>-116.4275</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>55</ic>
+      <kbdi>551</kbdi>
+      <sc>15</sc>
+      <ec>91</ec>
+      <bi>83</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>59</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="21">
+      <sta_id>101109</sta_id>
+      <sta_nm>SNAKE</sta_nm>
+      <latitude>  45.0997</latitude>
+      <longitude>-116.7378</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G3A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>32</ic>
+      <kbdi>502</kbdi>
+      <sc>8</sc>
+      <ec>85</ec>
+      <bi>61</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="22">
+      <sta_id>101209</sta_id>
+      <sta_nm>MCCALL</sta_nm>
+      <latitude>  44.8900</latitude>
+      <longitude>-116.1000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>10</xh_hr>
+      <ic>37</ic>
+      <kbdi>447</kbdi>
+      <sc>7</sc>
+      <ec>65</ec>
+      <bi>51</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="23">
+      <sta_id>101209</sta_id>
+      <sta_nm>MCCALL</sta_nm>
+      <latitude>  44.8900</latitude>
+      <longitude>-116.1000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>10</xh_hr>
+      <ic>37</ic>
+      <kbdi>447</kbdi>
+      <sc>7</sc>
+      <ec>65</ec>
+      <bi>51</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="24">
+      <sta_id>101220</sta_id>
+      <sta_nm>TEAPOT</sta_nm>
+      <latitude>  44.9043</latitude>
+      <longitude>-115.7386</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G4P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>45</ic>
+      <kbdi>480</kbdi>
+      <sc>15</sc>
+      <ec>79</ec>
+      <bi>79</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>56</fl>
+      <hrb>41</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="25">
+      <sta_id>101221</sta_id>
+      <sta_nm>BEARSKIN</sta_nm>
+      <latitude>  44.3833</latitude>
+      <longitude>-115.5000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-9</xh_hr>
+      <ic>39</ic>
+      <kbdi>421</kbdi>
+      <sc>10</sc>
+      <ec>79</ec>
+      <bi>63</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="26">
+      <sta_id>101221</sta_id>
+      <sta_nm>BEARSKIN</sta_nm>
+      <latitude>  44.3833</latitude>
+      <longitude>-115.5000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-9</xh_hr>
+      <ic>39</ic>
+      <kbdi>421</kbdi>
+      <sc>10</sc>
+      <ec>79</ec>
+      <bi>63</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="27">
+      <sta_id>101222</sta_id>
+      <sta_nm>PINE CREEK</sta_nm>
+      <latitude>  44.2500</latitude>
+      <longitude>-116.1833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-17</xh_hr>
+      <ic>34</ic>
+      <kbdi>456</kbdi>
+      <sc>7</sc>
+      <ec>82</ec>
+      <bi>54</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="28">
+      <sta_id>101222</sta_id>
+      <sta_nm>PINE CREEK</sta_nm>
+      <latitude>  44.2500</latitude>
+      <longitude>-116.1833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-17</xh_hr>
+      <ic>34</ic>
+      <kbdi>456</kbdi>
+      <sc>7</sc>
+      <ec>82</ec>
+      <bi>54</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="29">
+      <sta_id>101223</sta_id>
+      <sta_nm>SKIHIL</sta_nm>
+      <latitude>  44.9429</latitude>
+      <longitude>-116.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>28</ic>
+      <kbdi>437</kbdi>
+      <sc>6</sc>
+      <ec>77</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>46</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="30">
+      <sta_id>101223</sta_id>
+      <sta_nm>SKIHIL</sta_nm>
+      <latitude>  44.9429</latitude>
+      <longitude>-116.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>28</ic>
+      <kbdi>437</kbdi>
+      <sc>6</sc>
+      <ec>77</ec>
+      <bi>51</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>46</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="31">
+      <sta_id>101223</sta_id>
+      <sta_nm>SKIHIL</sta_nm>
+      <latitude>  44.9429</latitude>
+      <longitude>-116.1882</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>28</ic>
+      <kbdi>437</kbdi>
+      <sc>6</sc>
+      <ec>77</ec>
+      <bi>51</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>46</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="32">
+      <sta_id>101303</sta_id>
+      <sta_nm>INDIANOLA</sta_nm>
+      <latitude>  45.4007</latitude>
+      <longitude>-114.1634</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>40</ic>
+      <kbdi>367</kbdi>
+      <sc>9</sc>
+      <ec>76</ec>
+      <bi>60</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="33">
+      <sta_id>101310</sta_id>
+      <sta_nm>SALMON</sta_nm>
+      <latitude>  45.1498</latitude>
+      <longitude>-113.9454</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>27</ic>
+      <kbdi>208</kbdi>
+      <sc>7</sc>
+      <ec>81</ec>
+      <bi>54</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>5</hrb>
+      <wdy>65</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="34">
+      <sta_id>101311</sta_id>
+      <sta_nm>SKULL GULCH</sta_nm>
+      <latitude>  45.3365</latitude>
+      <longitude>-114.5024</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>47</ic>
+      <kbdi>478</kbdi>
+      <sc>13</sc>
+      <ec>82</ec>
+      <bi>74</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>35</hrb>
+      <wdy>60</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="35">
+      <sta_id>101312</sta_id>
+      <sta_nm>LEADORE</sta_nm>
+      <latitude>  44.7019</latitude>
+      <longitude>-113.3469</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>30</ic>
+      <kbdi>315</kbdi>
+      <sc>8</sc>
+      <ec>72</ec>
+      <bi>57</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>5</hrb>
+      <wdy>50</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="36">
+      <sta_id>101314</sta_id>
+      <sta_nm>EZRA CREEK</sta_nm>
+      <latitude>  44.8488</latitude>
+      <longitude>-114.0264</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>33</ic>
+      <kbdi>234</kbdi>
+      <sc>11</sc>
+      <ec>80</ec>
+      <bi>67</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>5</hrb>
+      <wdy>50</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="37">
+      <sta_id>101315</sta_id>
+      <sta_nm>KRILEY CREEK</sta_nm>
+      <latitude>  45.3559</latitude>
+      <longitude>-113.8950</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>0</xh_hr>
+      <ic>33</ic>
+      <kbdi>288</kbdi>
+      <sc>8</sc>
+      <ec>84</ec>
+      <bi>61</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>4</hrb>
+      <wdy>61</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="38">
+      <sta_id>101316</sta_id>
+      <sta_nm>RED ROCK PEAK</sta_nm>
+      <latitude>  44.9879</latitude>
+      <longitude>-114.4183</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>33</ic>
+      <kbdi>227</kbdi>
+      <sc>7</sc>
+      <ec>77</ec>
+      <bi>56</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="39">
+      <sta_id>101402</sta_id>
+      <sta_nm>CATFISH</sta_nm>
+      <latitude>  44.3192</latitude>
+      <longitude>-117.1683</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-12</xh_hr>
+      <ic>41</ic>
+      <kbdi>538</kbdi>
+      <sc>11</sc>
+      <ec>89</ec>
+      <bi>72</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>51</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="40">
+      <sta_id>101708</sta_id>
+      <sta_nm>TOWN CREEK</sta_nm>
+      <latitude>  43.9436</latitude>
+      <longitude>-115.9167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-7</xh_hr>
+      <ic>44</ic>
+      <kbdi>504</kbdi>
+      <sc>9</sc>
+      <ec>76</ec>
+      <bi>62</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>3</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="41">
+      <sta_id>101708</sta_id>
+      <sta_nm>TOWN CREEK</sta_nm>
+      <latitude>  43.9436</latitude>
+      <longitude>-115.9167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-7</xh_hr>
+      <ic>44</ic>
+      <kbdi>504</kbdi>
+      <sc>9</sc>
+      <ec>76</ec>
+      <bi>62</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>3</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="42">
+      <sta_id>101710</sta_id>
+      <sta_nm>LITTLE ANDERSON</sta_nm>
+      <latitude>  44.0911</latitude>
+      <longitude>-115.8806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-15</xh_hr>
+      <ic>37</ic>
+      <kbdi>463</kbdi>
+      <sc>8</sc>
+      <ec>82</ec>
+      <bi>58</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>41</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="43">
+      <sta_id>101710</sta_id>
+      <sta_nm>LITTLE ANDERSON</sta_nm>
+      <latitude>  44.0911</latitude>
+      <longitude>-115.8806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-15</xh_hr>
+      <ic>37</ic>
+      <kbdi>463</kbdi>
+      <sc>8</sc>
+      <ec>82</ec>
+      <bi>58</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>41</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="44">
+      <sta_id>101801</sta_id>
+      <sta_nm>BONANZA</sta_nm>
+      <latitude>  44.3721</latitude>
+      <longitude>-114.7291</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>46</ic>
+      <kbdi>250</kbdi>
+      <sc>12</sc>
+      <ec>65</ec>
+      <bi>64</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>48</hrb>
+      <wdy>80</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="45">
+      <sta_id>101804</sta_id>
+      <sta_nm>COPPER BASIN</sta_nm>
+      <latitude>  43.8099</latitude>
+      <longitude>-113.8458</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>14</th_hr>
+      <xh_hr>14</xh_hr>
+      <ic>26</ic>
+      <kbdi>63</kbdi>
+      <sc>5</sc>
+      <ec>48</ec>
+      <bi>38</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>27</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="46">
+      <sta_id>101805</sta_id>
+      <sta_nm>LITTLE CREEK</sta_nm>
+      <latitude>  44.7228</latitude>
+      <longitude>-114.9964</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>31</ic>
+      <kbdi>306</kbdi>
+      <sc>8</sc>
+      <ec>81</ec>
+      <bi>59</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>5</hrb>
+      <wdy>60</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="47">
+      <sta_id>101809</sta_id>
+      <sta_nm>STANLEY RS</sta_nm>
+      <latitude>  44.1691</latitude>
+      <longitude>-114.9259</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>29</ic>
+      <kbdi>371</kbdi>
+      <sc>6</sc>
+      <ec>64</ec>
+      <bi>46</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>43</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="48">
+      <sta_id>101809</sta_id>
+      <sta_nm>STANLEY RS</sta_nm>
+      <latitude>  44.1691</latitude>
+      <longitude>-114.9259</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>29</ic>
+      <kbdi>371</kbdi>
+      <sc>6</sc>
+      <ec>64</ec>
+      <bi>46</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>43</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="49">
+      <sta_id>101812</sta_id>
+      <sta_nm>HORTON PEAK</sta_nm>
+      <latitude>  43.9522</latitude>
+      <longitude>-114.7574</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>30</ic>
+      <kbdi>268</kbdi>
+      <sc>6</sc>
+      <ec>81</ec>
+      <bi>52</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="50">
+      <sta_id>101812</sta_id>
+      <sta_nm>HORTON PEAK</sta_nm>
+      <latitude>  43.9522</latitude>
+      <longitude>-114.7574</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>30</ic>
+      <kbdi>268</kbdi>
+      <sc>6</sc>
+      <ec>81</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="51">
+      <sta_id>101817</sta_id>
+      <sta_nm>CHALLIS</sta_nm>
+      <latitude>  44.5044</latitude>
+      <longitude>-114.2226</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>28</ic>
+      <kbdi>437</kbdi>
+      <sc>6</sc>
+      <ec>81</ec>
+      <bi>50</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>4</hrb>
+      <wdy>66</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="52">
+      <sta_id>101905</sta_id>
+      <sta_nm>ARCO</sta_nm>
+      <latitude>  43.6231</latitude>
+      <longitude>-113.3872</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>33</ic>
+      <kbdi>395</kbdi>
+      <sc>7</sc>
+      <ec>73</ec>
+      <bi>52</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>4</hrb>
+      <wdy>77</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="53">
+      <sta_id>102004</sta_id>
+      <sta_nm>3 MILE</sta_nm>
+      <latitude>  44.3958</latitude>
+      <longitude>-112.1081</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>38</ic>
+      <kbdi>263</kbdi>
+      <sc>10</sc>
+      <ec>64</ec>
+      <bi>59</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>41</hrb>
+      <wdy>83</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="54">
+      <sta_id>102105</sta_id>
+      <sta_nm>ISLAND PARK</sta_nm>
+      <latitude>  44.4204</latitude>
+      <longitude>-111.3841</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>14</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>11</xh_hr>
+      <ic>19</ic>
+      <kbdi>334</kbdi>
+      <sc>3</sc>
+      <ec>41</ec>
+      <bi>28</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>20</fl>
+      <hrb>94</hrb>
+      <wdy>124</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="55">
+      <sta_id>102106</sta_id>
+      <sta_nm>GASCV</sta_nm>
+      <latitude>  44.1678</latitude>
+      <longitude>-111.7792</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>26</ic>
+      <kbdi>277</kbdi>
+      <sc>5</sc>
+      <ec>67</ec>
+      <bi>45</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>32</fl>
+      <hrb>4</hrb>
+      <wdy>87</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="56">
+      <sta_id>102301</sta_id>
+      <sta_nm>MOODY</sta_nm>
+      <latitude>  43.6500</latitude>
+      <longitude>-111.5764</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>22</ic>
+      <kbdi>281</kbdi>
+      <sc>5</sc>
+      <ec>70</ec>
+      <bi>44</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>31</fl>
+      <hrb>47</hrb>
+      <wdy>80</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="57">
+      <sta_id>102401</sta_id>
+      <sta_nm>PINE CREEK PASS</sta_nm>
+      <latitude>  43.5400</latitude>
+      <longitude>-111.2008</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>32</ic>
+      <kbdi>320</kbdi>
+      <sc>6</sc>
+      <ec>79</ec>
+      <bi>51</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>37</hrb>
+      <wdy>72</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="58">
+      <sta_id>102601</sta_id>
+      <sta_nm>BOISE SOUTH</sta_nm>
+      <latitude>  43.5667</latitude>
+      <longitude>-116.2008</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>39</ic>
+      <kbdi>461</kbdi>
+      <sc>8</sc>
+      <ec>83</ec>
+      <bi>61</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>3</hr>
+      <ho>1</ho>
+      <fl>43</fl>
+      <hrb>4</hrb>
+      <wdy>62</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="59">
+      <sta_id>102709</sta_id>
+      <sta_nm>MOUNTAIN HOME</sta_nm>
+      <latitude>  43.0283</latitude>
+      <longitude>-115.8700</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-7</xh_hr>
+      <ic>40</ic>
+      <kbdi>690</kbdi>
+      <sc>9</sc>
+      <ec>84</ec>
+      <bi>62</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>3</hrb>
+      <wdy>62</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="60">
+      <sta_id>102711</sta_id>
+      <sta_nm>DEERHV</sta_nm>
+      <latitude>  43.1742</latitude>
+      <longitude>-115.1517</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>59</ic>
+      <kbdi>303</kbdi>
+      <sc>20</sc>
+      <ec>88</ec>
+      <bi>94</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>67</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="61">
+      <sta_id>102711</sta_id>
+      <sta_nm>DEERHV</sta_nm>
+      <latitude>  43.1742</latitude>
+      <longitude>-115.1517</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>59</ic>
+      <kbdi>303</kbdi>
+      <sc>20</sc>
+      <ec>88</ec>
+      <bi>94</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>67</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="62">
+      <sta_id>102712</sta_id>
+      <sta_nm>WAGONTOWN</sta_nm>
+      <latitude>  43.5725</latitude>
+      <longitude>-115.3267</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-12</xh_hr>
+      <ic>38</ic>
+      <kbdi>616</kbdi>
+      <sc>9</sc>
+      <ec>82</ec>
+      <bi>62</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="63">
+      <sta_id>102712</sta_id>
+      <sta_nm>WAGONTOWN</sta_nm>
+      <latitude>  43.5725</latitude>
+      <longitude>-115.3267</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-12</xh_hr>
+      <ic>38</ic>
+      <kbdi>616</kbdi>
+      <sc>9</sc>
+      <ec>82</ec>
+      <bi>62</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="64">
+      <sta_id>102802</sta_id>
+      <sta_nm>FLECK SUMMIT</sta_nm>
+      <latitude>  43.6197</latitude>
+      <longitude>-114.9004</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>32</ic>
+      <kbdi>460</kbdi>
+      <sc>8</sc>
+      <ec>70</ec>
+      <bi>55</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>39</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="65">
+      <sta_id>102802</sta_id>
+      <sta_nm>FLECK SUMMIT</sta_nm>
+      <latitude>  43.6197</latitude>
+      <longitude>-114.9004</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>32</ic>
+      <kbdi>460</kbdi>
+      <sc>8</sc>
+      <ec>70</ec>
+      <bi>55</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>39</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="66">
+      <sta_id>102903</sta_id>
+      <sta_nm>NORTH FORK RS</sta_nm>
+      <latitude>  43.7904</latitude>
+      <longitude>-114.4220</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>32</ic>
+      <kbdi>462</kbdi>
+      <sc>6</sc>
+      <ec>65</ec>
+      <bi>47</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>4</hrb>
+      <wdy>72</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="67">
+      <sta_id>102903</sta_id>
+      <sta_nm>NORTH FORK RS</sta_nm>
+      <latitude>  43.7904</latitude>
+      <longitude>-114.4220</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>32</ic>
+      <kbdi>462</kbdi>
+      <sc>6</sc>
+      <ec>65</ec>
+      <bi>47</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>4</hrb>
+      <wdy>72</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="68">
+      <sta_id>102906</sta_id>
+      <sta_nm>OHIO GULCH</sta_nm>
+      <latitude>  43.6008</latitude>
+      <longitude>-114.3158</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>53</ic>
+      <kbdi>337</kbdi>
+      <sc>16</sc>
+      <ec>78</ec>
+      <bi>80</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>57</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="69">
+      <sta_id>102906</sta_id>
+      <sta_nm>OHIO GULCH</sta_nm>
+      <latitude>  43.6008</latitude>
+      <longitude>-114.3158</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>53</ic>
+      <kbdi>337</kbdi>
+      <sc>16</sc>
+      <ec>78</ec>
+      <bi>80</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>57</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="70">
+      <sta_id>102907</sta_id>
+      <sta_nm>POTTER</sta_nm>
+      <latitude>  43.2261</latitude>
+      <longitude>-113.5744</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>43</ic>
+      <kbdi>405</kbdi>
+      <sc>9</sc>
+      <ec>83</ec>
+      <bi>63</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="71">
+      <sta_id>103102</sta_id>
+      <sta_nm>DALE BITNER</sta_nm>
+      <latitude>  43.0583</latitude>
+      <longitude>-111.4083</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>11</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>10</xh_hr>
+      <ic>42</ic>
+      <kbdi>357</kbdi>
+      <sc>9</sc>
+      <ec>52</ec>
+      <bi>51</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>70</hrb>
+      <wdy>105</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="72">
+      <sta_id>103103</sta_id>
+      <sta_nm>SCOUT MOUNTAIN</sta_nm>
+      <latitude>  42.6983</latitude>
+      <longitude>-112.3564</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>33</ic>
+      <kbdi>444</kbdi>
+      <sc>5</sc>
+      <ec>74</ec>
+      <bi>46</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>3</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="73">
+      <sta_id>103205</sta_id>
+      <sta_nm>HORSE BUTTE</sta_nm>
+      <latitude>  42.4183</latitude>
+      <longitude>-115.2017</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>0</xh_hr>
+      <ic>48</ic>
+      <kbdi>388</kbdi>
+      <sc>13</sc>
+      <ec>86</ec>
+      <bi>77</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>55</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="74">
+      <sta_id>103207</sta_id>
+      <sta_nm>BRACE FLAT</sta_nm>
+      <latitude>  42.3503</latitude>
+      <longitude>-116.6856</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-14</xh_hr>
+      <ic>39</ic>
+      <kbdi>478</kbdi>
+      <sc>6</sc>
+      <ec>85</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>2</hrb>
+      <wdy>65</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="75">
+      <sta_id>103208</sta_id>
+      <sta_nm>TRIANGLE</sta_nm>
+      <latitude>  42.8189</latitude>
+      <longitude>-116.5858</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>-11</xh_hr>
+      <ic>39</ic>
+      <kbdi>357</kbdi>
+      <sc>7</sc>
+      <ec>71</ec>
+      <bi>53</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>3</hrb>
+      <wdy>82</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="76">
+      <sta_id>103209</sta_id>
+      <sta_nm>TWIN BUTTE</sta_nm>
+      <latitude>  42.6906</latitude>
+      <longitude>-115.1953</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-2</xh_hr>
+      <ic>51</ic>
+      <kbdi>517</kbdi>
+      <sc>15</sc>
+      <ec>90</ec>
+      <bi>82</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="77">
+      <sta_id>103210</sta_id>
+      <sta_nm>POLE CREEK</sta_nm>
+      <latitude>  42.0525</latitude>
+      <longitude>-115.7683</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-33</xh_hr>
+      <ic>37</ic>
+      <kbdi>429</kbdi>
+      <sc>7</sc>
+      <ec>81</ec>
+      <bi>57</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>3</hrb>
+      <wdy>68</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="78">
+      <sta_id>103403</sta_id>
+      <sta_nm>ROCK LAKE</sta_nm>
+      <latitude>  42.9733</latitude>
+      <longitude>-114.0639</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>30</ic>
+      <kbdi>454</kbdi>
+      <sc>6</sc>
+      <ec>81</ec>
+      <bi>52</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="79">
+      <sta_id>103703</sta_id>
+      <sta_nm>CRYSTAL</sta_nm>
+      <latitude>  42.9833</latitude>
+      <longitude>-113.1667</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>33</ic>
+      <kbdi>357</kbdi>
+      <sc>6</sc>
+      <ec>82</ec>
+      <bi>52</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>3</hrb>
+      <wdy>66</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="80">
+      <sta_id>103704</sta_id>
+      <sta_nm>BULL CANYON</sta_nm>
+      <latitude>  42.3653</latitude>
+      <longitude>-112.7056</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>34</ic>
+      <kbdi>332</kbdi>
+      <sc>6</sc>
+      <ec>75</ec>
+      <bi>50</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>3</hrb>
+      <wdy>69</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="81">
+      <sta_id>103902</sta_id>
+      <sta_nm>GRACE</sta_nm>
+      <latitude>  42.5372</latitude>
+      <longitude>-111.8547</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>37</ic>
+      <kbdi>504</kbdi>
+      <sc>9</sc>
+      <ec>77</ec>
+      <bi>60</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>4</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="82">
+      <sta_id>103903</sta_id>
+      <sta_nm>POLE CANYON</sta_nm>
+      <latitude>  42.8944</latitude>
+      <longitude>-111.8406</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>40</ic>
+      <kbdi>417</kbdi>
+      <sc>10</sc>
+      <ec>67</ec>
+      <bi>60</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>45</hrb>
+      <wdy>95</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="83">
+      <sta_id>103904</sta_id>
+      <sta_nm>DIAMOND FLAT</sta_nm>
+      <latitude>  42.8667</latitude>
+      <longitude>-111.2167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>0</xh_hr>
+      <ic>32</ic>
+      <kbdi>412</kbdi>
+      <sc>6</sc>
+      <ec>74</ec>
+      <bi>50</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>3</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="84">
+      <sta_id>103904</sta_id>
+      <sta_nm>DIAMOND FLAT</sta_nm>
+      <latitude>  42.8667</latitude>
+      <longitude>-111.2167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>0</xh_hr>
+      <ic>32</ic>
+      <kbdi>412</kbdi>
+      <sc>6</sc>
+      <ec>74</ec>
+      <bi>50</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>3</hrb>
+      <wdy>70</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="85">
+      <sta_id>104004</sta_id>
+      <sta_nm>TRAIL GULCH</sta_nm>
+      <latitude>  42.3000</latitude>
+      <longitude>-114.3167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>35</ic>
+      <kbdi>341</kbdi>
+      <sc>8</sc>
+      <ec>85</ec>
+      <bi>59</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="86">
+      <sta_id>104004</sta_id>
+      <sta_nm>TRAIL GULCH</sta_nm>
+      <latitude>  42.3000</latitude>
+      <longitude>-114.3167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>35</ic>
+      <kbdi>341</kbdi>
+      <sc>8</sc>
+      <ec>85</ec>
+      <bi>59</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="87">
+      <sta_id>104004</sta_id>
+      <sta_nm>TRAIL GULCH</sta_nm>
+      <latitude>  42.3000</latitude>
+      <longitude>-114.3167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>35</ic>
+      <kbdi>341</kbdi>
+      <sc>8</sc>
+      <ec>85</ec>
+      <bi>59</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="88">
+      <sta_id>104006</sta_id>
+      <sta_nm>BULL SPRINGS</sta_nm>
+      <latitude>  42.0833</latitude>
+      <longitude>-114.4833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>37</ic>
+      <kbdi>258</kbdi>
+      <sc>8</sc>
+      <ec>62</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>43</hrb>
+      <wdy>86</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="89">
+      <sta_id>104006</sta_id>
+      <sta_nm>BULL SPRINGS</sta_nm>
+      <latitude>  42.0833</latitude>
+      <longitude>-114.4833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>37</ic>
+      <kbdi>258</kbdi>
+      <sc>8</sc>
+      <ec>62</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>43</hrb>
+      <wdy>86</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="90">
+      <sta_id>104103</sta_id>
+      <sta_nm>MOBERG CANYON</sta_nm>
+      <latitude>  42.0203</latitude>
+      <longitude>-113.1536</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>58</ic>
+      <kbdi>328</kbdi>
+      <sc>19</sc>
+      <ec>88</ec>
+      <bi>90</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>64</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="91">
+      <sta_id>104103</sta_id>
+      <sta_nm>MOBERG CANYON</sta_nm>
+      <latitude>  42.0203</latitude>
+      <longitude>-113.1536</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>58</ic>
+      <kbdi>328</kbdi>
+      <sc>19</sc>
+      <ec>88</ec>
+      <bi>90</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>64</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="92">
+      <sta_id>104104</sta_id>
+      <sta_nm>RAFT RIVER</sta_nm>
+      <latitude>  42.5478</latitude>
+      <longitude>-113.2594</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>37</ic>
+      <kbdi>415</kbdi>
+      <sc>9</sc>
+      <ec>69</ec>
+      <bi>59</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>4</hrb>
+      <wdy>70</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="93">
+      <sta_id>104105</sta_id>
+      <sta_nm>GOOSE CREEK</sta_nm>
+      <latitude>  42.0950</latitude>
+      <longitude>-113.8958</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>43</ic>
+      <kbdi>412</kbdi>
+      <sc>9</sc>
+      <ec>82</ec>
+      <bi>63</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="94">
+      <sta_id>104105</sta_id>
+      <sta_nm>GOOSE CREEK</sta_nm>
+      <latitude>  42.0950</latitude>
+      <longitude>-113.8958</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>43</ic>
+      <kbdi>412</kbdi>
+      <sc>9</sc>
+      <ec>82</ec>
+      <bi>63</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="95">
+      <sta_id>104203</sta_id>
+      <sta_nm>FLINT CREEK</sta_nm>
+      <latitude>  42.0792</latitude>
+      <longitude>-112.1833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>36</ic>
+      <kbdi>405</kbdi>
+      <sc>7</sc>
+      <ec>78</ec>
+      <bi>53</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>39</hrb>
+      <wdy>61</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="96">
+      <sta_id>260108</sta_id>
+      <sta_nm>GALENA</sta_nm>
+      <latitude>  39.3817</latitude>
+      <longitude>-119.8150</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>30</ic>
+      <kbdi>464</kbdi>
+      <sc>5</sc>
+      <ec>87</ec>
+      <bi>49</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="97">
+      <sta_id>260109</sta_id>
+      <sta_nm>CATNIP</sta_nm>
+      <latitude>  41.9250</latitude>
+      <longitude>-119.4972</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>54</ic>
+      <kbdi>402</kbdi>
+      <sc>11</sc>
+      <ec>86</ec>
+      <bi>70</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>2</hrb>
+      <wdy>64</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="98">
+      <sta_id>260109</sta_id>
+      <sta_nm>CATNIP</sta_nm>
+      <latitude>  41.9250</latitude>
+      <longitude>-119.4972</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>54</ic>
+      <kbdi>402</kbdi>
+      <sc>11</sc>
+      <ec>86</ec>
+      <bi>70</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>2</hrb>
+      <wdy>64</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="99">
+      <sta_id>260110</sta_id>
+      <sta_nm>FOX MOUNTAIN</sta_nm>
+      <latitude>  41.0092</latitude>
+      <longitude>-119.5511</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>60</ic>
+      <kbdi>276</kbdi>
+      <sc>15</sc>
+      <ec>85</ec>
+      <bi>82</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>34</hrb>
+      <wdy>65</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="100">
+      <sta_id>260111</sta_id>
+      <sta_nm>BARREL SPRINGS</sta_nm>
+      <latitude>  41.9111</latitude>
+      <longitude>-119.9389</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>49</ic>
+      <kbdi>257</kbdi>
+      <sc>12</sc>
+      <ec>83</ec>
+      <bi>72</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>51</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="101">
+      <sta_id>260112</sta_id>
+      <sta_nm>JUNIPER SPRINGS</sta_nm>
+      <latitude>  41.0808</latitude>
+      <longitude>-119.7764</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>49</ic>
+      <kbdi>339</kbdi>
+      <sc>11</sc>
+      <ec>87</ec>
+      <bi>70</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="102">
+      <sta_id>260113</sta_id>
+      <sta_nm>BUFFALO CREEK</sta_nm>
+      <latitude>  40.5819</latitude>
+      <longitude>-119.7900</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>2</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>58</ic>
+      <kbdi>548</kbdi>
+      <sc>12</sc>
+      <ec>95</ec>
+      <bi>75</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>53</fl>
+      <hrb>2</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="103">
+      <sta_id>260114</sta_id>
+      <sta_nm>DESERT SPRINGS</sta_nm>
+      <latitude>  39.6739</latitude>
+      <longitude>-119.7678</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>48</ic>
+      <kbdi>453</kbdi>
+      <sc>11</sc>
+      <ec>88</ec>
+      <bi>70</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="104">
+      <sta_id>260117</sta_id>
+      <sta_nm>KNOX #2</sta_nm>
+      <latitude>  39.2728</latitude>
+      <longitude>-119.9630</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>28</ic>
+      <kbdi>67</kbdi>
+      <sc>7</sc>
+      <ec>60</ec>
+      <bi>49</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>5</hrb>
+      <wdy>84</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="105">
+      <sta_id>260202</sta_id>
+      <sta_nm>BLUEWING</sta_nm>
+      <latitude>  40.3347</latitude>
+      <longitude>-119.0903</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2A2</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>47</ic>
+      <kbdi>548</kbdi>
+      <sc>8</sc>
+      <ec>89</ec>
+      <bi>60</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>2</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="106">
+      <sta_id>260202</sta_id>
+      <sta_nm>BLUEWING</sta_nm>
+      <latitude>  40.3347</latitude>
+      <longitude>-119.0903</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>41</ic>
+      <kbdi>548</kbdi>
+      <sc>6</sc>
+      <ec>89</ec>
+      <bi>53</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>5</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>2</hrb>
+      <wdy>61</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="107">
+      <sta_id>260203</sta_id>
+      <sta_nm>DRY CANYON</sta_nm>
+      <latitude>  41.4917</latitude>
+      <longitude>-119.1167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-5</xh_hr>
+      <ic>65</ic>
+      <kbdi>545</kbdi>
+      <sc>15</sc>
+      <ec>89</ec>
+      <bi>82</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>2</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="108">
+      <sta_id>260203</sta_id>
+      <sta_nm>DRY CANYON</sta_nm>
+      <latitude>  41.4917</latitude>
+      <longitude>-119.1167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-5</xh_hr>
+      <ic>61</ic>
+      <kbdi>545</kbdi>
+      <sc>13</sc>
+      <ec>89</ec>
+      <bi>78</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>55</fl>
+      <hrb>2</hrb>
+      <wdy>61</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="109">
+      <sta_id>260204</sta_id>
+      <sta_nm>MOREY_CREEK</sta_nm>
+      <latitude>  41.4558</latitude>
+      <longitude>-117.6333</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>51</ic>
+      <kbdi>455</kbdi>
+      <sc>11</sc>
+      <ec>92</ec>
+      <bi>73</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="110">
+      <sta_id>260204</sta_id>
+      <sta_nm>MOREY_CREEK</sta_nm>
+      <latitude>  41.4558</latitude>
+      <longitude>-117.6333</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>47</ic>
+      <kbdi>455</kbdi>
+      <sc>10</sc>
+      <ec>92</ec>
+      <bi>68</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>3</hrb>
+      <wdy>55</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="111">
+      <sta_id>260206</sta_id>
+      <sta_nm>TEXAS SPRING</sta_nm>
+      <latitude>  41.8017</latitude>
+      <longitude>-118.4508</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>56</ic>
+      <kbdi>455</kbdi>
+      <sc>14</sc>
+      <ec>90</ec>
+      <bi>80</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>57</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="112">
+      <sta_id>260206</sta_id>
+      <sta_nm>TEXAS SPRING</sta_nm>
+      <latitude>  41.8017</latitude>
+      <longitude>-118.4508</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>53</ic>
+      <kbdi>455</kbdi>
+      <sc>12</sc>
+      <ec>90</ec>
+      <bi>76</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>7</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>54</fl>
+      <hrb>3</hrb>
+      <wdy>58</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="113">
+      <sta_id>260207</sta_id>
+      <sta_nm>DOUBLE H</sta_nm>
+      <latitude>  41.6525</latitude>
+      <longitude>-118.0442</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>40</ic>
+      <kbdi>324</kbdi>
+      <sc>8</sc>
+      <ec>93</ec>
+      <bi>63</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>3</hrb>
+      <wdy>53</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="114">
+      <sta_id>260208</sta_id>
+      <sta_nm>MAJUBA</sta_nm>
+      <latitude>  40.7728</latitude>
+      <longitude>-118.5197</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>70</ic>
+      <kbdi>540</kbdi>
+      <sc>19</sc>
+      <ec>92</ec>
+      <bi>93</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>66</fl>
+      <hrb>2</hrb>
+      <wdy>56</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="115">
+      <sta_id>260305</sta_id>
+      <sta_nm>LONG HOLLOW</sta_nm>
+      <latitude>  41.5542</latitude>
+      <longitude>-116.2306</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>-12</xh_hr>
+      <ic>54</ic>
+      <kbdi>396</kbdi>
+      <sc>13</sc>
+      <ec>82</ec>
+      <bi>76</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>54</fl>
+      <hrb>3</hrb>
+      <wdy>68</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="116">
+      <sta_id>260306</sta_id>
+      <sta_nm>SPRUCE MTN</sta_nm>
+      <latitude>  40.4403</latitude>
+      <longitude>-114.8111</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>36</ic>
+      <kbdi>500</kbdi>
+      <sc>7</sc>
+      <ec>84</ec>
+      <bi>55</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>39</fl>
+      <hrb>39</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="117">
+      <sta_id>260308</sta_id>
+      <sta_nm>SPRING GULCH</sta_nm>
+      <latitude>  40.5931</latitude>
+      <longitude>-114.2028</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>51</ic>
+      <kbdi>466</kbdi>
+      <sc>14</sc>
+      <ec>89</ec>
+      <bi>79</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>56</fl>
+      <hrb>30</hrb>
+      <wdy>57</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="118">
+      <sta_id>260309</sta_id>
+      <sta_nm>ROCK SPRING CREEK</sta_nm>
+      <latitude>  41.6431</latitude>
+      <longitude>-114.6431</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>39</ic>
+      <kbdi>490</kbdi>
+      <sc>6</sc>
+      <ec>78</ec>
+      <bi>52</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>3</hrb>
+      <wdy>75</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="119">
+      <sta_id>260310</sta_id>
+      <sta_nm>ANTELOPE LAKE</sta_nm>
+      <latitude>  41.6847</latitude>
+      <longitude>-116.7644</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>47</ic>
+      <kbdi>535</kbdi>
+      <sc>9</sc>
+      <ec>87</ec>
+      <bi>66</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>47</fl>
+      <hrb>3</hrb>
+      <wdy>61</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="120">
+      <sta_id>260314</sta_id>
+      <sta_nm>CRANE SPRINGS</sta_nm>
+      <latitude>  40.4597</latitude>
+      <longitude>-115.8500</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>39</ic>
+      <kbdi>497</kbdi>
+      <sc>7</sc>
+      <ec>87</ec>
+      <bi>56</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>3</hrb>
+      <wdy>61</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="121">
+      <sta_id>260315</sta_id>
+      <sta_nm>STAG MTN.</sta_nm>
+      <latitude>  41.5178</latitude>
+      <longitude>-115.3928</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>50</ic>
+      <kbdi>344</kbdi>
+      <sc>12</sc>
+      <ec>82</ec>
+      <bi>71</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>3</hrb>
+      <wdy>68</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="122">
+      <sta_id>260402</sta_id>
+      <sta_nm>SIARD</sta_nm>
+      <latitude>  40.4000</latitude>
+      <longitude>-117.6153</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>53</ic>
+      <kbdi>589</kbdi>
+      <sc>11</sc>
+      <ec>91</ec>
+      <bi>73</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="123">
+      <sta_id>260402</sta_id>
+      <sta_nm>SIARD</sta_nm>
+      <latitude>  40.4000</latitude>
+      <longitude>-117.6153</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>49</ic>
+      <kbdi>589</kbdi>
+      <sc>10</sc>
+      <ec>91</ec>
+      <bi>68</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>3</hrb>
+      <wdy>57</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="124">
+      <sta_id>260501</sta_id>
+      <sta_nm>AUSTIN</sta_nm>
+      <latitude>  39.4967</latitude>
+      <longitude>-117.0717</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>42</ic>
+      <kbdi>548</kbdi>
+      <sc>9</sc>
+      <ec>87</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="125">
+      <sta_id>260501</sta_id>
+      <sta_nm>AUSTIN</sta_nm>
+      <latitude>  39.4967</latitude>
+      <longitude>-117.0717</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>38</ic>
+      <kbdi>548</kbdi>
+      <sc>8</sc>
+      <ec>87</ec>
+      <bi>59</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="126">
+      <sta_id>260503</sta_id>
+      <sta_nm>DESATOYA</sta_nm>
+      <latitude>  39.3094</latitude>
+      <longitude>-117.5844</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>37</ic>
+      <kbdi>330</kbdi>
+      <sc>8</sc>
+      <ec>76</ec>
+      <bi>56</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>3</hrb>
+      <wdy>63</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="127">
+      <sta_id>260503</sta_id>
+      <sta_nm>DESATOYA</sta_nm>
+      <latitude>  39.3094</latitude>
+      <longitude>-117.5844</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>37</ic>
+      <kbdi>330</kbdi>
+      <sc>7</sc>
+      <ec>76</ec>
+      <bi>55</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>39</fl>
+      <hrb>3</hrb>
+      <wdy>74</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="128">
+      <sta_id>260504</sta_id>
+      <sta_nm>RED BUTTE</sta_nm>
+      <latitude>  39.6500</latitude>
+      <longitude>-117.3167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>50</ic>
+      <kbdi>527</kbdi>
+      <sc>10</sc>
+      <ec>87</ec>
+      <bi>66</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>47</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="129">
+      <sta_id>260504</sta_id>
+      <sta_nm>RED BUTTE</sta_nm>
+      <latitude>  39.6500</latitude>
+      <longitude>-117.3167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>45</ic>
+      <kbdi>527</kbdi>
+      <sc>8</sc>
+      <ec>87</ec>
+      <bi>61</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>6</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>3</hrb>
+      <wdy>64</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="130">
+      <sta_id>260505</sta_id>
+      <sta_nm>BEACON</sta_nm>
+      <latitude>  40.5583</latitude>
+      <longitude>-116.7583</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>49</ic>
+      <kbdi>449</kbdi>
+      <sc>11</sc>
+      <ec>92</ec>
+      <bi>72</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>51</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="131">
+      <sta_id>260505</sta_id>
+      <sta_nm>BEACON</sta_nm>
+      <latitude>  40.5583</latitude>
+      <longitude>-116.7583</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>-1</xh_hr>
+      <ic>46</ic>
+      <kbdi>449</kbdi>
+      <sc>9</sc>
+      <ec>92</ec>
+      <bi>67</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>18</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>3</hrb>
+      <wdy>55</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="132">
+      <sta_id>260601</sta_id>
+      <sta_nm>COMBS</sta_nm>
+      <latitude>  39.6333</latitude>
+      <longitude>-116.3000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>50</ic>
+      <kbdi>576</kbdi>
+      <sc>11</sc>
+      <ec>84</ec>
+      <bi>69</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>49</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="133">
+      <sta_id>260601</sta_id>
+      <sta_nm>COMBS</sta_nm>
+      <latitude>  39.6333</latitude>
+      <longitude>-116.3000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>46</ic>
+      <kbdi>576</kbdi>
+      <sc>9</sc>
+      <ec>84</ec>
+      <bi>64</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>3</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>32</hrb>
+      <wdy>67</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="134">
+      <sta_id>260603</sta_id>
+      <sta_nm>COILS CREEK</sta_nm>
+      <latitude>  39.8333</latitude>
+      <longitude>-116.4917</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>48</ic>
+      <kbdi>448</kbdi>
+      <sc>13</sc>
+      <ec>82</ec>
+      <bi>75</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>53</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="135">
+      <sta_id>260603</sta_id>
+      <sta_nm>COILS CREEK</sta_nm>
+      <latitude>  39.8333</latitude>
+      <longitude>-116.4917</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>45</ic>
+      <kbdi>448</kbdi>
+      <sc>11</sc>
+      <ec>82</ec>
+      <bi>70</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>5</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>3</hrb>
+      <wdy>67</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="136">
+      <sta_id>260701</sta_id>
+      <sta_nm>DEAD CAMEL</sta_nm>
+      <latitude>  39.2556</latitude>
+      <longitude>-118.9597</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>38</ic>
+      <kbdi>629</kbdi>
+      <sc>7</sc>
+      <ec>89</ec>
+      <bi>56</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="137">
+      <sta_id>260804</sta_id>
+      <sta_nm>ALLIGATOR RIDGE</sta_nm>
+      <latitude>  39.7369</latitude>
+      <longitude>-115.5181</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>63</ic>
+      <kbdi>547</kbdi>
+      <sc>15</sc>
+      <ec>91</ec>
+      <bi>82</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>2</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="138">
+      <sta_id>260805</sta_id>
+      <sta_nm>CEDAR PASS</sta_nm>
+      <latitude>  39.7569</latitude>
+      <longitude>-114.1492</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>29</ic>
+      <kbdi>432</kbdi>
+      <sc>4</sc>
+      <ec>80</ec>
+      <bi>44</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>31</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="139">
+      <sta_id>260807</sta_id>
+      <sta_nm>CATTLE CAMP</sta_nm>
+      <latitude>  38.9036</latitude>
+      <longitude>-114.8142</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>37</ic>
+      <kbdi>291</kbdi>
+      <sc>5</sc>
+      <ec>73</ec>
+      <bi>47</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>33</hrb>
+      <wdy>71</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="140">
+      <sta_id>260810</sta_id>
+      <sta_nm>QUIMA PEAK</sta_nm>
+      <latitude>  38.4869</latitude>
+      <longitude>-117.0950</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>33</ic>
+      <kbdi>378</kbdi>
+      <sc>12</sc>
+      <ec>77</ec>
+      <bi>69</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>49</fl>
+      <hrb>5</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="141">
+      <sta_id>260810</sta_id>
+      <sta_nm>QUIMA PEAK</sta_nm>
+      <latitude>  38.4869</latitude>
+      <longitude>-117.0950</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>33</ic>
+      <kbdi>378</kbdi>
+      <sc>12</sc>
+      <ec>77</ec>
+      <bi>68</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>33</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="142">
+      <sta_id>261204</sta_id>
+      <sta_nm>FISH SPRINGS</sta_nm>
+      <latitude>  38.9247</latitude>
+      <longitude>-119.6414</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>39</ic>
+      <kbdi>460</kbdi>
+      <sc>10</sc>
+      <ec>79</ec>
+      <bi>64</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>45</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="143">
+      <sta_id>261301</sta_id>
+      <sta_nm>CHERRY VALLEY</sta_nm>
+      <latitude>  39.5844</latitude>
+      <longitude>-117.9439</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>41</ic>
+      <kbdi>220</kbdi>
+      <sc>10</sc>
+      <ec>79</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="144">
+      <sta_id>261404</sta_id>
+      <sta_nm>PANCAKE</sta_nm>
+      <latitude>  38.3036</latitude>
+      <longitude>-116.1925</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>38</ic>
+      <kbdi>625</kbdi>
+      <sc>9</sc>
+      <ec>84</ec>
+      <bi>62</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="145">
+      <sta_id>261404</sta_id>
+      <sta_nm>PANCAKE</sta_nm>
+      <latitude>  38.3036</latitude>
+      <longitude>-116.1925</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>41</ic>
+      <kbdi>625</kbdi>
+      <sc>10</sc>
+      <ec>84</ec>
+      <bi>66</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>47</fl>
+      <hrb>4</hrb>
+      <wdy>65</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="146">
+      <sta_id>261406</sta_id>
+      <sta_nm>CURRANT CREEK</sta_nm>
+      <latitude>  38.7667</latitude>
+      <longitude>-115.4167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>79</ic>
+      <kbdi>684</kbdi>
+      <sc>25</sc>
+      <ec>93</ec>
+      <bi>106</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>75</fl>
+      <hrb>3</hrb>
+      <wdy>53</wdy>
+      <adj>E </adj>
+   </row>
+   <row num="147">
+      <sta_id>261408</sta_id>
+      <sta_nm>BUDDY ADAMS</sta_nm>
+      <latitude>  37.0214</latitude>
+      <longitude>-116.6092</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>33</ic>
+      <kbdi>634</kbdi>
+      <sc>17</sc>
+      <ec>88</ec>
+      <bi>86</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>61</fl>
+      <hrb>6</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="148">
+      <sta_id>261408</sta_id>
+      <sta_nm>BUDDY ADAMS</sta_nm>
+      <latitude>  37.0214</latitude>
+      <longitude>-116.6092</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>34</ic>
+      <kbdi>634</kbdi>
+      <sc>18</sc>
+      <ec>88</ec>
+      <bi>90</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>64</fl>
+      <hrb>6</hrb>
+      <wdy>51</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="149">
+      <sta_id>261603</sta_id>
+      <sta_nm>COYOTE WASH</sta_nm>
+      <latitude>  38.2833</latitude>
+      <longitude>-114.7583</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>45</ic>
+      <kbdi>455</kbdi>
+      <sc>9</sc>
+      <ec>79</ec>
+      <bi>60</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>3</hrb>
+      <wdy>74</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="150">
+      <sta_id>261604</sta_id>
+      <sta_nm>KANE SPRING</sta_nm>
+      <latitude>  37.2500</latitude>
+      <longitude>-114.7083</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>55</ic>
+      <kbdi>375</kbdi>
+      <sc>34</sc>
+      <ec>85</ec>
+      <bi>118</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>84</fl>
+      <hrb>5</hrb>
+      <wdy>59</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="151">
+      <sta_id>261608</sta_id>
+      <sta_nm>IMMIGRATION WASH</sta_nm>
+      <latitude>  37.9214</latitude>
+      <longitude>-114.1597</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>36</ic>
+      <kbdi>420</kbdi>
+      <sc>13</sc>
+      <ec>74</ec>
+      <bi>70</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>5</hrb>
+      <wdy>65</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="152">
+      <sta_id>261702</sta_id>
+      <sta_nm>KYLE</sta_nm>
+      <latitude>  36.2667</latitude>
+      <longitude>-115.6000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>7</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>19</ic>
+      <kbdi>121</kbdi>
+      <sc>8</sc>
+      <ec>62</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>7</hrb>
+      <wdy>70</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="153">
+      <sta_id>261705</sta_id>
+      <sta_nm>RED ROCK</sta_nm>
+      <latitude>  36.1353</latitude>
+      <longitude>-115.4272</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>36</ic>
+      <kbdi>685</kbdi>
+      <sc>9</sc>
+      <ec>85</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>5</hrb>
+      <wdy>56</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="154">
+      <sta_id>261708</sta_id>
+      <sta_nm>MT SPRINGS</sta_nm>
+      <latitude>  36.3333</latitude>
+      <longitude>-115.8667</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>22</ic>
+      <kbdi>407</kbdi>
+      <sc>7</sc>
+      <ec>70</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>35</hrb>
+      <wdy>73</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="155">
+      <sta_id>261710</sta_id>
+      <sta_nm>WAMP SPRING</sta_nm>
+      <latitude>  36.5692</latitude>
+      <longitude>-115.0905</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>11</ic>
+      <kbdi>258</kbdi>
+      <sc>4</sc>
+      <ec>64</ec>
+      <bi>39</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>8</hrb>
+      <wdy>82</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="156">
+      <sta_id>261711</sta_id>
+      <sta_nm>ASH MEADOWS</sta_nm>
+      <latitude>  36.4088</latitude>
+      <longitude>-116.3383</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>69</ic>
+      <kbdi>684</kbdi>
+      <sc>29</sc>
+      <ec>92</ec>
+      <bi>112</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>1</hr>
+      <ho>1</ho>
+      <fl>79</fl>
+      <hrb>32</hrb>
+      <wdy>50</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="157">
+      <sta_id>420206</sta_id>
+      <sta_nm>RED SPUR</sta_nm>
+      <latitude>  41.6374</latitude>
+      <longitude>-111.4156</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G4P3</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>47</ic>
+      <kbdi>319</kbdi>
+      <sc>23</sc>
+      <ec>65</ec>
+      <bi>86</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>61</fl>
+      <hrb>41</hrb>
+      <wdy>71</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="158">
+      <sta_id>420206</sta_id>
+      <sta_nm>RED SPUR</sta_nm>
+      <latitude>  41.6374</latitude>
+      <longitude>-111.4156</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G4P3</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>47</ic>
+      <kbdi>319</kbdi>
+      <sc>23</sc>
+      <ec>65</ec>
+      <bi>86</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>61</fl>
+      <hrb>41</hrb>
+      <wdy>71</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="159">
+      <sta_id>420403</sta_id>
+      <sta_nm>BUES_CANYON</sta_nm>
+      <latitude>  41.1800</latitude>
+      <longitude>-111.9306</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>35</ic>
+      <kbdi>490</kbdi>
+      <sc>8</sc>
+      <ec>77</ec>
+      <bi>58</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>41</fl>
+      <hrb>4</hrb>
+      <wdy>61</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="160">
+      <sta_id>420403</sta_id>
+      <sta_nm>BUES_CANYON</sta_nm>
+      <latitude>  41.1800</latitude>
+      <longitude>-111.9306</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G3A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>35</ic>
+      <kbdi>490</kbdi>
+      <sc>8</sc>
+      <ec>77</ec>
+      <bi>58</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>41</fl>
+      <hrb>4</hrb>
+      <wdy>61</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="161">
+      <sta_id>420703</sta_id>
+      <sta_nm>BEAR RIVER</sta_nm>
+      <latitude>  40.8833</latitude>
+      <longitude>-110.8167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G4P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>14</th_hr>
+      <xh_hr>12</xh_hr>
+      <ic>38</ic>
+      <kbdi>278</kbdi>
+      <sc>11</sc>
+      <ec>50</ec>
+      <bi>56</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>70</hrb>
+      <wdy>99</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="162">
+      <sta_id>420703</sta_id>
+      <sta_nm>BEAR RIVER</sta_nm>
+      <latitude>  40.8833</latitude>
+      <longitude>-110.8167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G4A3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>14</th_hr>
+      <xh_hr>13</xh_hr>
+      <ic>40</ic>
+      <kbdi>278</kbdi>
+      <sc>13</sc>
+      <ec>51</ec>
+      <bi>59</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>4</hrb>
+      <wdy>99</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="163">
+      <sta_id>420705</sta_id>
+      <sta_nm>HEWINTA</sta_nm>
+      <latitude>  40.9528</latitude>
+      <longitude>-110.4806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>15</xh_hr>
+      <ic>18</ic>
+      <kbdi>108</kbdi>
+      <sc>4</sc>
+      <ec>41</ec>
+      <bi>33</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>23</fl>
+      <hrb>102</hrb>
+      <wdy>114</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="164">
+      <sta_id>420705</sta_id>
+      <sta_nm>HEWINTA</sta_nm>
+      <latitude>  40.9528</latitude>
+      <longitude>-110.4806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G3A3</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>15</xh_hr>
+      <ic>19</ic>
+      <kbdi>108</kbdi>
+      <sc>5</sc>
+      <ec>42</ec>
+      <bi>36</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>26</fl>
+      <hrb>67</hrb>
+      <wdy>114</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="165">
+      <sta_id>420706</sta_id>
+      <sta_nm>NORWAY_FLAT</sta_nm>
+      <latitude>  40.5500</latitude>
+      <longitude>-111.0667</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G4P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>59</ic>
+      <kbdi>254</kbdi>
+      <sc>18</sc>
+      <ec>60</ec>
+      <bi>75</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>53</fl>
+      <hrb>49</hrb>
+      <wdy>85</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="166">
+      <sta_id>420706</sta_id>
+      <sta_nm>NORWAY_FLAT</sta_nm>
+      <latitude>  40.5500</latitude>
+      <longitude>-111.0667</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G4A3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>12</xh_hr>
+      <ic>60</ic>
+      <kbdi>254</kbdi>
+      <sc>19</sc>
+      <ec>60</ec>
+      <bi>76</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>54</fl>
+      <hrb>3</hrb>
+      <wdy>85</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="167">
+      <sta_id>420805</sta_id>
+      <sta_nm>CARTCK</sta_nm>
+      <latitude>  40.8847</latitude>
+      <longitude>-109.4169</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>34</ic>
+      <kbdi>47</kbdi>
+      <sc>7</sc>
+      <ec>57</ec>
+      <bi>47</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>4</hrb>
+      <wdy>92</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="168">
+      <sta_id>420806</sta_id>
+      <sta_nm>KINGS POINT</sta_nm>
+      <latitude>  40.8597</latitude>
+      <longitude>-109.1033</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>2</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>51</ic>
+      <kbdi>443</kbdi>
+      <sc>10</sc>
+      <ec>66</ec>
+      <bi>59</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>42</fl>
+      <hrb>2</hrb>
+      <wdy>93</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="169">
+      <sta_id>420901</sta_id>
+      <sta_nm>CEDAR MOUNTAIN</sta_nm>
+      <latitude>  40.3006</latitude>
+      <longitude>-112.7767</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>33</ic>
+      <kbdi>541</kbdi>
+      <sc>5</sc>
+      <ec>85</ec>
+      <bi>49</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>3</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="170">
+      <sta_id>420901</sta_id>
+      <sta_nm>CEDAR MOUNTAIN</sta_nm>
+      <latitude>  40.3006</latitude>
+      <longitude>-112.7767</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>32</ic>
+      <kbdi>541</kbdi>
+      <sc>5</sc>
+      <ec>84</ec>
+      <bi>49</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>42</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="171">
+      <sta_id>420908</sta_id>
+      <sta_nm>VERNON</sta_nm>
+      <latitude>  40.0989</latitude>
+      <longitude>-112.4269</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>36</ic>
+      <kbdi>515</kbdi>
+      <sc>8</sc>
+      <ec>72</ec>
+      <bi>55</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>39</fl>
+      <hrb>4</hrb>
+      <wdy>81</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="172">
+      <sta_id>420908</sta_id>
+      <sta_nm>VERNON</sta_nm>
+      <latitude>  40.0989</latitude>
+      <longitude>-112.4269</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>35</ic>
+      <kbdi>515</kbdi>
+      <sc>7</sc>
+      <ec>71</ec>
+      <bi>54</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>55</hrb>
+      <wdy>81</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="173">
+      <sta_id>420911</sta_id>
+      <sta_nm>ARAGONITE</sta_nm>
+      <latitude>  40.5967</latitude>
+      <longitude>-113.0211</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>39</ic>
+      <kbdi>499</kbdi>
+      <sc>9</sc>
+      <ec>93</ec>
+      <bi>66</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>47</fl>
+      <hrb>4</hrb>
+      <wdy>51</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="174">
+      <sta_id>420911</sta_id>
+      <sta_nm>ARAGONITE</sta_nm>
+      <latitude>  40.5967</latitude>
+      <longitude>-113.0211</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>39</ic>
+      <kbdi>499</kbdi>
+      <sc>9</sc>
+      <ec>92</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>34</hrb>
+      <wdy>51</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="175">
+      <sta_id>420912</sta_id>
+      <sta_nm>OTTER CREEK</sta_nm>
+      <latitude>  41.7533</latitude>
+      <longitude>-111.2806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>36</ic>
+      <kbdi>254</kbdi>
+      <sc>7</sc>
+      <ec>70</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>4</hrb>
+      <wdy>76</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="176">
+      <sta_id>420912</sta_id>
+      <sta_nm>OTTER CREEK</sta_nm>
+      <latitude>  41.7533</latitude>
+      <longitude>-111.2806</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>35</ic>
+      <kbdi>254</kbdi>
+      <sc>7</sc>
+      <ec>70</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>42</hrb>
+      <wdy>76</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="177">
+      <sta_id>420914</sta_id>
+      <sta_nm>ROSEBUD</sta_nm>
+      <latitude>  41.6097</latitude>
+      <longitude>-113.5906</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>35</ic>
+      <kbdi>451</kbdi>
+      <sc>5</sc>
+      <ec>87</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>3</hrb>
+      <wdy>62</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="178">
+      <sta_id>420914</sta_id>
+      <sta_nm>ROSEBUD</sta_nm>
+      <latitude>  41.6097</latitude>
+      <longitude>-113.5906</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>3</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>34</ic>
+      <kbdi>451</kbdi>
+      <sc>5</sc>
+      <ec>86</ec>
+      <bi>50</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>44</hrb>
+      <wdy>62</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="179">
+      <sta_id>420915</sta_id>
+      <sta_nm>CLIFTON FLAT</sta_nm>
+      <latitude>  40.1125</latitude>
+      <longitude>-113.8756</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>52</ic>
+      <kbdi>328</kbdi>
+      <sc>14</sc>
+      <ec>82</ec>
+      <bi>78</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>55</fl>
+      <hrb>3</hrb>
+      <wdy>69</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="180">
+      <sta_id>420915</sta_id>
+      <sta_nm>CLIFTON FLAT</sta_nm>
+      <latitude>  40.1125</latitude>
+      <longitude>-113.8756</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>51</ic>
+      <kbdi>328</kbdi>
+      <sc>14</sc>
+      <ec>81</ec>
+      <bi>77</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>55</fl>
+      <hrb>45</hrb>
+      <wdy>69</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="181">
+      <sta_id>421101</sta_id>
+      <sta_nm>PLEASANT GROVE</sta_nm>
+      <latitude>  40.4311</latitude>
+      <longitude>-111.7500</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2A2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>39</ic>
+      <kbdi>497</kbdi>
+      <sc>10</sc>
+      <ec>81</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="182">
+      <sta_id>421101</sta_id>
+      <sta_nm>PLEASANT GROVE</sta_nm>
+      <latitude>  40.4311</latitude>
+      <longitude>-111.7500</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>39</ic>
+      <kbdi>497</kbdi>
+      <sc>10</sc>
+      <ec>81</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>4</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="183">
+      <sta_id>421301</sta_id>
+      <sta_nm>YLWSTN</sta_nm>
+      <latitude>  40.5436</latitude>
+      <longitude>-110.3300</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>7</xh_hr>
+      <ic>20</ic>
+      <kbdi>20</kbdi>
+      <sc>6</sc>
+      <ec>54</ec>
+      <bi>44</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>31</fl>
+      <hrb>6</hrb>
+      <wdy>94</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="184">
+      <sta_id>421304</sta_id>
+      <sta_nm>FIVE MILE</sta_nm>
+      <latitude>  39.8811</latitude>
+      <longitude>-110.2658</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>31</ic>
+      <kbdi>27</kbdi>
+      <sc>6</sc>
+      <ec>63</ec>
+      <bi>45</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>32</fl>
+      <hrb>49</hrb>
+      <wdy>99</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="185">
+      <sta_id>421305</sta_id>
+      <sta_nm>HORSE_RIDGE</sta_nm>
+      <latitude>  39.9339</latitude>
+      <longitude>-110.8614</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>40</ic>
+      <kbdi>103</kbdi>
+      <sc>8</sc>
+      <ec>66</ec>
+      <bi>52</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>37</fl>
+      <hrb>3</hrb>
+      <wdy>74</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="186">
+      <sta_id>421405</sta_id>
+      <sta_nm>MCCOOK</sta_nm>
+      <latitude>  39.6336</latitude>
+      <longitude>-109.2650</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>32</ic>
+      <kbdi>247</kbdi>
+      <sc>8</sc>
+      <ec>64</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>4</hrb>
+      <wdy>88</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="187">
+      <sta_id>421408</sta_id>
+      <sta_nm>DIAMOND</sta_nm>
+      <latitude>  40.6172</latitude>
+      <longitude>-109.2428</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>28</th_hr>
+      <xh_hr>25</xh_hr>
+      <ic>43</ic>
+      <kbdi>195</kbdi>
+      <sc>9</sc>
+      <ec>21</ec>
+      <bi>33</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>23</fl>
+      <hrb>35</hrb>
+      <wdy>200</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="188">
+      <sta_id>421410</sta_id>
+      <sta_nm>UPPER SAND WASH</sta_nm>
+      <latitude>  39.7136</latitude>
+      <longitude>-109.4461</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>25</ic>
+      <kbdi>289</kbdi>
+      <sc>5</sc>
+      <ec>64</ec>
+      <bi>43</bi>
+      <sl>1 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>30</fl>
+      <hrb>4</hrb>
+      <wdy>96</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="189">
+      <sta_id>421501</sta_id>
+      <sta_nm>SEVIER RES</sta_nm>
+      <latitude>  39.5833</latitude>
+      <longitude>-112.0000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>32</ic>
+      <kbdi>575</kbdi>
+      <sc>6</sc>
+      <ec>80</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>4</hrb>
+      <wdy>69</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="190">
+      <sta_id>421502</sta_id>
+      <sta_nm>MUD SPRING</sta_nm>
+      <latitude>  39.7986</latitude>
+      <longitude>-112.2722</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>44</ic>
+      <kbdi>498</kbdi>
+      <sc>14</sc>
+      <ec>78</ec>
+      <bi>74</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>4</hrb>
+      <wdy>69</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="191">
+      <sta_id>421602</sta_id>
+      <sta_nm>JOES VALLEY</sta_nm>
+      <latitude>  39.3094</latitude>
+      <longitude>-111.3228</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>34</ic>
+      <kbdi>379</kbdi>
+      <sc>13</sc>
+      <ec>66</ec>
+      <bi>67</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>38</hrb>
+      <wdy>78</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="192">
+      <sta_id>421702</sta_id>
+      <sta_nm>BRUIN POINT</sta_nm>
+      <latitude>  39.6083</latitude>
+      <longitude>-110.2917</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>9</xh_hr>
+      <ic>17</ic>
+      <kbdi>89</kbdi>
+      <sc>5</sc>
+      <ec>52</ec>
+      <bi>40</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>67</hrb>
+      <wdy>105</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="193">
+      <sta_id>421805</sta_id>
+      <sta_nm>BLACK CEDAR</sta_nm>
+      <latitude>  38.9792</latitude>
+      <longitude>-112.2394</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>30</ic>
+      <kbdi>489</kbdi>
+      <sc>9</sc>
+      <ec>78</ec>
+      <bi>61</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>5</hrb>
+      <wdy>60</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="194">
+      <sta_id>421806</sta_id>
+      <sta_nm>TULE VALLEY</sta_nm>
+      <latitude>  39.3500</latitude>
+      <longitude>-113.3667</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>4</hu_hr>
+      <th_hr>6</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>40</ic>
+      <kbdi>568</kbdi>
+      <sc>9</sc>
+      <ec>91</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>4</hrb>
+      <wdy>55</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="195">
+      <sta_id>421807</sta_id>
+      <sta_nm>HORSE HOLLOW</sta_nm>
+      <latitude>  38.6639</latitude>
+      <longitude>-112.6833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>30</ic>
+      <kbdi>412</kbdi>
+      <sc>13</sc>
+      <ec>78</ec>
+      <bi>74</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>6</hrb>
+      <wdy>66</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="196">
+      <sta_id>421904</sta_id>
+      <sta_nm>SIGNAL PEAK</sta_nm>
+      <latitude>  38.6319</latitude>
+      <longitude>-112.0611</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>30</ic>
+      <kbdi>522</kbdi>
+      <sc>12</sc>
+      <ec>73</ec>
+      <bi>68</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>48</fl>
+      <hrb>6</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="197">
+      <sta_id>421904</sta_id>
+      <sta_nm>SIGNAL PEAK</sta_nm>
+      <latitude>  38.6319</latitude>
+      <longitude>-112.0611</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>29</ic>
+      <kbdi>522</kbdi>
+      <sc>11</sc>
+      <ec>73</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>6</hrb>
+      <wdy>64</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="198">
+      <sta_id>421905</sta_id>
+      <sta_nm>LOST CREEK</sta_nm>
+      <latitude>  38.7708</latitude>
+      <longitude>-111.8625</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>23</ic>
+      <kbdi>279</kbdi>
+      <sc>7</sc>
+      <ec>66</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>38</hrb>
+      <wdy>75</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="199">
+      <sta_id>422002</sta_id>
+      <sta_nm>FLATTOP</sta_nm>
+      <latitude>  39.3375</latitude>
+      <longitude>-110.6000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>28</ic>
+      <kbdi>447</kbdi>
+      <sc>6</sc>
+      <ec>72</ec>
+      <bi>50</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>42</hrb>
+      <wdy>82</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="200">
+      <sta_id>422102</sta_id>
+      <sta_nm>BRYSON</sta_nm>
+      <latitude>  39.2750</latitude>
+      <longitude>-109.2167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>57</ic>
+      <kbdi>542</kbdi>
+      <sc>16</sc>
+      <ec>81</ec>
+      <bi>82</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>3</hrb>
+      <wdy>60</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="201">
+      <sta_id>422203</sta_id>
+      <sta_nm>BRIMSTONE RESERVOIR</sta_nm>
+      <latitude>  38.3083</latitude>
+      <longitude>-113.3847</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>40</ic>
+      <kbdi>645</kbdi>
+      <sc>24</sc>
+      <ec>76</ec>
+      <bi>96</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>68</fl>
+      <hrb>6</hrb>
+      <wdy>68</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="202">
+      <sta_id>422203</sta_id>
+      <sta_nm>BRIMSTONE RESERVOIR</sta_nm>
+      <latitude>  38.3083</latitude>
+      <longitude>-113.3847</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>40</ic>
+      <kbdi>645</kbdi>
+      <sc>24</sc>
+      <ec>76</ec>
+      <bi>96</bi>
+      <sl>5 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>68</fl>
+      <hrb>6</hrb>
+      <wdy>68</wdy>
+      <adj>V </adj>
+   </row>
+   <row num="203">
+      <sta_id>422502</sta_id>
+      <sta_nm>JENSEN SPRING</sta_nm>
+      <latitude>  38.0333</latitude>
+      <longitude>-113.5167</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>7</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>25</ic>
+      <kbdi>490</kbdi>
+      <sc>11</sc>
+      <ec>72</ec>
+      <bi>65</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>46</fl>
+      <hrb>7</hrb>
+      <wdy>77</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="204">
+      <sta_id>422503</sta_id>
+      <sta_nm>COTTONWOOD MTN</sta_nm>
+      <latitude>  37.9839</latitude>
+      <longitude>-112.6392</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3A2</msgc>
+      <one_hr>7</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>23</ic>
+      <kbdi>240</kbdi>
+      <sc>12</sc>
+      <ec>61</ec>
+      <bi>61</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>7</hrb>
+      <wdy>81</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="205">
+      <sta_id>422604</sta_id>
+      <sta_nm>ASAY BENCH</sta_nm>
+      <latitude>  37.5000</latitude>
+      <longitude>-112.5000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>9</one_hr>
+      <ten_hr>9</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>11</ic>
+      <kbdi>87</kbdi>
+      <sc>5</sc>
+      <ec>50</ec>
+      <bi>38</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>27</fl>
+      <hrb>9</hrb>
+      <wdy>99</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="206">
+      <sta_id>422604</sta_id>
+      <sta_nm>ASAY BENCH</sta_nm>
+      <latitude>  37.5000</latitude>
+      <longitude>-112.5000</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>9</one_hr>
+      <ten_hr>9</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>11</ic>
+      <kbdi>87</kbdi>
+      <sc>5</sc>
+      <ec>50</ec>
+      <bi>38</bi>
+      <sl>2 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>27</fl>
+      <hrb>9</hrb>
+      <wdy>99</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="207">
+      <sta_id>422606</sta_id>
+      <sta_nm>BUCK FLAT</sta_nm>
+      <latitude>  37.9000</latitude>
+      <longitude>-111.6833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>22</ic>
+      <kbdi>170</kbdi>
+      <sc>5</sc>
+      <ec>61</ec>
+      <bi>40</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>5</hrb>
+      <wdy>90</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="208">
+      <sta_id>422606</sta_id>
+      <sta_nm>BUCK FLAT</sta_nm>
+      <latitude>  37.9000</latitude>
+      <longitude>-111.6833</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>22</ic>
+      <kbdi>170</kbdi>
+      <sc>5</sc>
+      <ec>61</ec>
+      <bi>40</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>5</hrb>
+      <wdy>90</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="209">
+      <sta_id>422608</sta_id>
+      <sta_nm>TOM BEST SPRING</sta_nm>
+      <latitude>  37.8292</latitude>
+      <longitude>-112.1192</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>19</ic>
+      <kbdi>31</kbdi>
+      <sc>5</sc>
+      <ec>50</ec>
+      <bi>39</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>57</hrb>
+      <wdy>105</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="210">
+      <sta_id>422608</sta_id>
+      <sta_nm>TOM BEST SPRING</sta_nm>
+      <latitude>  37.8292</latitude>
+      <longitude>-112.1192</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>19</ic>
+      <kbdi>31</kbdi>
+      <sc>5</sc>
+      <ec>50</ec>
+      <bi>39</bi>
+      <sl>2 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>57</hrb>
+      <wdy>105</wdy>
+      <adj>L </adj>
+   </row>
+   <row num="211">
+      <sta_id>422609</sta_id>
+      <sta_nm>BRYCE CANYON</sta_nm>
+      <latitude>  37.6417</latitude>
+      <longitude>-112.1722</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P2</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>17</th_hr>
+      <xh_hr>10</xh_hr>
+      <ic>16</ic>
+      <kbdi>164</kbdi>
+      <sc>4</sc>
+      <ec>38</ec>
+      <bi>29</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>21</fl>
+      <hrb>73</hrb>
+      <wdy>132</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="212">
+      <sta_id>422610</sta_id>
+      <sta_nm>LARB HOLLOW</sta_nm>
+      <latitude>  38.0159</latitude>
+      <longitude>-111.3203</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>13</xh_hr>
+      <ic>29</ic>
+      <kbdi>105</kbdi>
+      <sc>8</sc>
+      <ec>56</ec>
+      <bi>49</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>5</hrb>
+      <wdy>60</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="213">
+      <sta_id>422611</sta_id>
+      <sta_nm>HENRY MOUNTAIN</sta_nm>
+      <latitude>  38.0342</latitude>
+      <longitude>-110.8253</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>22</ic>
+      <kbdi>57</kbdi>
+      <sc>6</sc>
+      <ec>69</ec>
+      <bi>47</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>47</hrb>
+      <wdy>85</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="214">
+      <sta_id>422710</sta_id>
+      <sta_nm>NORTH LONG POINT</sta_nm>
+      <latitude>  37.8381</latitude>
+      <longitude>-109.8389</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P2</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>33</ic>
+      <kbdi>84</kbdi>
+      <sc>9</sc>
+      <ec>65</ec>
+      <bi>56</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>40</fl>
+      <hrb>5</hrb>
+      <wdy>84</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="215">
+      <sta_id>422711</sta_id>
+      <sta_nm>BIG INDIAN</sta_nm>
+      <latitude>  38.2208</latitude>
+      <longitude>-109.2792</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>2</xh_hr>
+      <ic>27</ic>
+      <kbdi>472</kbdi>
+      <sc>6</sc>
+      <ec>76</ec>
+      <bi>51</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>36</fl>
+      <hrb>5</hrb>
+      <wdy>75</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="216">
+      <sta_id>422712</sta_id>
+      <sta_nm>KANE GULCH</sta_nm>
+      <latitude>  37.5250</latitude>
+      <longitude>-109.8917</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>19</ic>
+      <kbdi>308</kbdi>
+      <sc>4</sc>
+      <ec>68</ec>
+      <bi>40</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>39</hrb>
+      <wdy>84</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="217">
+      <sta_id>422803</sta_id>
+      <sta_nm>ENTERPRISE</sta_nm>
+      <latitude>  37.5586</latitude>
+      <longitude>-113.7172</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>7</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>21</ic>
+      <kbdi>259</kbdi>
+      <sc>8</sc>
+      <ec>63</ec>
+      <bi>53</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>7</hrb>
+      <wdy>91</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="218">
+      <sta_id>422803</sta_id>
+      <sta_nm>ENTERPRISE</sta_nm>
+      <latitude>  37.5586</latitude>
+      <longitude>-113.7172</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>7</one_hr>
+      <ten_hr>7</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>5</xh_hr>
+      <ic>21</ic>
+      <kbdi>259</kbdi>
+      <sc>8</sc>
+      <ec>63</ec>
+      <bi>53</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>7</hrb>
+      <wdy>91</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="219">
+      <sta_id>422805</sta_id>
+      <sta_nm>WHITE REEF</sta_nm>
+      <latitude>  37.2161</latitude>
+      <longitude>-113.3778</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>36</ic>
+      <kbdi>509</kbdi>
+      <sc>13</sc>
+      <ec>81</ec>
+      <bi>73</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>5</hrb>
+      <wdy>65</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="220">
+      <sta_id>422805</sta_id>
+      <sta_nm>WHITE REEF</sta_nm>
+      <latitude>  37.2161</latitude>
+      <longitude>-113.3778</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>7</th_hr>
+      <xh_hr>1</xh_hr>
+      <ic>36</ic>
+      <kbdi>509</kbdi>
+      <sc>13</sc>
+      <ec>81</ec>
+      <bi>73</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>52</fl>
+      <hrb>5</hrb>
+      <wdy>65</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="221">
+      <sta_id>422806</sta_id>
+      <sta_nm>BADGER SPRING</sta_nm>
+      <latitude>  37.1522</latitude>
+      <longitude>-113.9514</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P1</msgc>
+      <one_hr>6</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>5</hu_hr>
+      <th_hr>5</th_hr>
+      <xh_hr>-29</xh_hr>
+      <ic>26</ic>
+      <kbdi>537</kbdi>
+      <sc>11</sc>
+      <ec>87</ec>
+      <bi>70</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>50</fl>
+      <hrb>6</hrb>
+      <wdy>52</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="222">
+      <sta_id>422807</sta_id>
+      <sta_nm>LAVA POINT RAWS</sta_nm>
+      <latitude>  37.3917</latitude>
+      <longitude>-113.0389</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>8</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>14</ic>
+      <kbdi>149</kbdi>
+      <sc>6</sc>
+      <ec>51</ec>
+      <bi>41</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>29</fl>
+      <hrb>8</hrb>
+      <wdy>100</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="223">
+      <sta_id>422808</sta_id>
+      <sta_nm>ZION CANYON RAWS</sta_nm>
+      <latitude>  37.2047</latitude>
+      <longitude>-112.9778</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-2</xh_hr>
+      <ic>21</ic>
+      <kbdi>509</kbdi>
+      <sc>4</sc>
+      <ec>77</ec>
+      <bi>43</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>30</fl>
+      <hrb>5</hrb>
+      <wdy>71</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="224">
+      <sta_id>422808</sta_id>
+      <sta_nm>ZION CANYON RAWS</sta_nm>
+      <latitude>  37.2047</latitude>
+      <longitude>-112.9778</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>5</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>8</th_hr>
+      <xh_hr>-2</xh_hr>
+      <ic>21</ic>
+      <kbdi>509</kbdi>
+      <sc>4</sc>
+      <ec>77</ec>
+      <bi>43</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>30</fl>
+      <hrb>5</hrb>
+      <wdy>71</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="225">
+      <sta_id>422902</sta_id>
+      <sta_nm>TELEGRAPH FLAT</sta_nm>
+      <latitude>  37.2000</latitude>
+      <longitude>-112.0250</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>56</ic>
+      <kbdi>437</kbdi>
+      <sc>18</sc>
+      <ec>72</ec>
+      <bi>82</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>4</hrb>
+      <wdy>82</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="226">
+      <sta_id>422902</sta_id>
+      <sta_nm>TELEGRAPH FLAT</sta_nm>
+      <latitude>  37.2000</latitude>
+      <longitude>-112.0250</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>4</mp>
+      <msgc>7G1A1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>6</hu_hr>
+      <th_hr>9</th_hr>
+      <xh_hr>3</xh_hr>
+      <ic>56</ic>
+      <kbdi>437</kbdi>
+      <sc>18</sc>
+      <ec>72</ec>
+      <bi>82</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>58</fl>
+      <hrb>4</hrb>
+      <wdy>82</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="227">
+      <sta_id>422903</sta_id>
+      <sta_nm>AGUA CANYON</sta_nm>
+      <latitude>  37.5222</latitude>
+      <longitude>-112.2711</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>9</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>13</ic>
+      <kbdi>55</kbdi>
+      <sc>6</sc>
+      <ec>51</ec>
+      <bi>41</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>29</fl>
+      <hrb>8</hrb>
+      <wdy>95</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="228">
+      <sta_id>422903</sta_id>
+      <sta_nm>AGUA CANYON</sta_nm>
+      <latitude>  37.5222</latitude>
+      <longitude>-112.2711</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>3</mp>
+      <msgc>7G2P2</msgc>
+      <one_hr>8</one_hr>
+      <ten_hr>9</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>4</xh_hr>
+      <ic>13</ic>
+      <kbdi>55</kbdi>
+      <sc>6</sc>
+      <ec>51</ec>
+      <bi>41</bi>
+      <sl>3 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>29</fl>
+      <hrb>8</hrb>
+      <wdy>95</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="229">
+      <sta_id>480707</sta_id>
+      <sta_nm>BURRO HILL</sta_nm>
+      <latitude>  43.8397</latitude>
+      <longitude>-110.3708</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>11</xh_hr>
+      <ic>30</ic>
+      <kbdi>278</kbdi>
+      <sc>6</sc>
+      <ec>56</ec>
+      <bi>44</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>31</fl>
+      <hrb>64</hrb>
+      <wdy>90</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="230">
+      <sta_id>480708</sta_id>
+      <sta_nm>GRAND TETON</sta_nm>
+      <latitude>  43.7236</latitude>
+      <longitude>-110.7103</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>4</ten_hr>
+      <hu_hr>9</hu_hr>
+      <th_hr>12</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>46</ic>
+      <kbdi>290</kbdi>
+      <sc>12</sc>
+      <ec>58</ec>
+      <bi>61</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>43</fl>
+      <hrb>36</hrb>
+      <wdy>87</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="231">
+      <sta_id>480709</sta_id>
+      <sta_nm>COYOTE MEADOWS</sta_nm>
+      <latitude>  44.0075</latitude>
+      <longitude>-111.0356</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>2</mp>
+      <msgc>7G1P1</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>8</hu_hr>
+      <th_hr>11</th_hr>
+      <xh_hr>6</xh_hr>
+      <ic>30</ic>
+      <kbdi>453</kbdi>
+      <sc>6</sc>
+      <ec>63</ec>
+      <bi>46</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>33</fl>
+      <hrb>55</hrb>
+      <wdy>94</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="232">
+      <sta_id>481208</sta_id>
+      <sta_nm>KELLY</sta_nm>
+      <latitude>  42.2761</latitude>
+      <longitude>-110.8061</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>13</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>7</hu_hr>
+      <th_hr>10</th_hr>
+      <xh_hr>8</xh_hr>
+      <ic>37</ic>
+      <kbdi>199</kbdi>
+      <sc>11</sc>
+      <ec>67</ec>
+      <bi>62</bi>
+      <sl>4 </sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>44</fl>
+      <hrb>39</hrb>
+      <wdy>70</wdy>
+      <adj>H </adj>
+   </row>
+   <row num="233">
+      <sta_id>481302</sta_id>
+      <sta_nm>HOBACK</sta_nm>
+      <latitude>  43.2203</latitude>
+      <longitude>-110.4231</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>14</th_hr>
+      <xh_hr>15</xh_hr>
+      <ic>39</ic>
+      <kbdi>268</kbdi>
+      <sc>8</sc>
+      <ec>46</ec>
+      <bi>45</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>32</fl>
+      <hrb>102</hrb>
+      <wdy>103</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="234">
+      <sta_id>481306</sta_id>
+      <sta_nm>SNIDER BASIN</sta_nm>
+      <latitude>  42.4908</latitude>
+      <longitude>-110.5267</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>6</ten_hr>
+      <hu_hr>12</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>15</xh_hr>
+      <ic>29</ic>
+      <kbdi>165</kbdi>
+      <sc>6</sc>
+      <ec>45</ec>
+      <bi>40</bi>
+      <sl>3+</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>28</fl>
+      <hrb>100</hrb>
+      <wdy>107</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="235">
+      <sta_id>481307</sta_id>
+      <sta_nm>RASPBERRY</sta_nm>
+      <latitude>  43.4722</latitude>
+      <longitude>-110.0183</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G3P3</msgc>
+      <one_hr>3</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>15</th_hr>
+      <xh_hr>16</xh_hr>
+      <ic>42</ic>
+      <kbdi>96</kbdi>
+      <sc>11</sc>
+      <ec>47</ec>
+      <bi>53</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>38</fl>
+      <hrb>109</hrb>
+      <wdy>108</wdy>
+      <adj>M </adj>
+   </row>
+   <row num="236">
+      <sta_id>481309</sta_id>
+      <sta_nm>HALF MOON</sta_nm>
+      <latitude>  42.9147</latitude>
+      <longitude>-109.7472</longitude>
+      <nfdr_dt>08/21/2017</nfdr_dt>
+      <nfdr_tm>12</nfdr_tm>
+      <nfdr_type>O</nfdr_type>
+      <mp>1</mp>
+      <msgc>7G2P3</msgc>
+      <one_hr>4</one_hr>
+      <ten_hr>5</ten_hr>
+      <hu_hr>10</hu_hr>
+      <th_hr>13</th_hr>
+      <xh_hr>13</xh_hr>
+      <ic>35</ic>
+      <kbdi>100</kbdi>
+      <sc>9</sc>
+      <ec>50</ec>
+      <bi>50</bi>
+      <sl>3-</sl>
+      <lr>0</lr>
+      <lo>0</lo>
+      <hr>0</hr>
+      <ho>0</ho>
+      <fl>35</fl>
+      <hrb>89</hrb>
+      <wdy>97</wdy>
+      <adj>M </adj>
+   </row>
+</nfdrs>
